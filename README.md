@@ -24,16 +24,19 @@ Moreover, your license from a particular copyright holder is reinstated permanen
 I intend   this Commitment to be irrevocable, and binding and enforceable against me and assignees of or successors to my copyrights.
 
 
-Definitions
+Definitions:
+
 ‘Covered License’ means the GNU General Public License, version 2 (GPLv2), the GNU Lesser General Public License, version 2.1 (LGPLv2.1), or the GNU Library General Public License, version 2 (LGPLv2), all as published by the Free Software Foundation.
 
 ‘Defensive Action’ means a legal proceeding or claim that Red Hat brings against you in response to a prior proceeding or claim initiated by you or your affiliate.
 
 #### THE ABOVE COMMITMENT IS AGREED TO BY THE FOLLOWING INDIVIDUALS
 
-JOHN OPENSOURCE
+JOHN
 
-JULIE GPL
+JULIE 
+
+AMY
 
 
 
