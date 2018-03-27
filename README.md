@@ -4,6 +4,9 @@ At the end of November 2017 Red Hat along with IBM, Google and Facebook announce
 
 We extended these rights because we believe it is good and right for the community. These rights will provide additional comfort that users of GPLv2, LGPLv2.1 and LGPL v2 code have reasonable assurances that they can use that code, even if there is an inadvertent and temporary noncompliance with the license due to ambiguity, misunderstanding or otherwise. These rights will also help reduce the opportunity for copyright trolling.
 
-Interested in joining this initiative?
+## Interested in joining this initiative?
 
-(TODO)
+If you are an individual interested in supporting this initiative in your individual capacity, you may do so by providing your name to be publicly listed as supporting this initiative and personally adopting the GPLv3 cure provisions as to your copyright in code licensed under GPLv2, LGPLv2.1 and LGPLv2.  You may do this by following the instructions provided in the file: [INSERT GITHUB LINK]
+
+If you are a company interested in supporting this initiative, please simply follow the instructions provided in the file: [INSERT GITHUB LINK]
+
