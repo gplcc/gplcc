@@ -1,4 +1,4 @@
-# GPLv2 CURE COMMITMENT
+# GPLv2 CURE COMMITMENT - Company
 How Your Company Can Support This Initiative
 
 
