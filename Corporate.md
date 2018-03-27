@@ -4,7 +4,7 @@ How Your Company Can Support This Initiative
 
 If your company is interested in supporting the GPLv2 Cure Commitment initiative, you simply need to take the following three simple steps., and then two more optional steps:
 
-1) Copy the file "GPLv2 Cure Commitment-Corporate.txt” into a text editor on your computer.
+1) Copy the file "GPLv2 Cure Commitment-Corporate.md” into a text editor on your computer.
 
 2) Search and replace “YOUR COMPANY” with your company name.
 
