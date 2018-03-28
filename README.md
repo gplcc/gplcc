@@ -8,5 +8,7 @@ We extended these rights because we believe it is good and right for the communi
 
 If you are an **individual** interested in supporting this initiative in your individual capacity, you may do so by providing your name to be publicly listed as supporting this initiative and personally adopting the GPLv3 cure provisions as to your copyright in code licensed under GPLv2, LGPLv2.1 and LGPLv2.  You may do this by following the instructions provided in the file: [INSERT GITHUB LINK]
 
-If you are a **company** interested in supporting this initiative, please simply follow the instructions provided in the file: [INSERT GITHUB LINK]
+If you are a **company** interested in supporting this initiative, please simply follow the instructions provided in the file: [link](https://github.com/commoncure/GPLv2-Cure-Commitment/tree/c296c5db7c356ba4dcd0da985bf346c6fc20f167/Company)
+
+
 
