@@ -1,4 +1,6 @@
 
+## The following text may be used as a template by your company to support the GPLv2 Cure Commitment initiative. 
+
 Our Commitment
 
 Before filing or continuing to prosecute any legal proceeding or claim (other than a Defensive Action) arising from termination of a Covered License, [YOUR COMPANY] commits to extend to the person or entity (“you”) accused of violating the Covered License the following provisions regarding cure and reinstatement, taken from GPL version 3. As used here, the term ‘this License’ refers to the specific Covered License being enforced.
