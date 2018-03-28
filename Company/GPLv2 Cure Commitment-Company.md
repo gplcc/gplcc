@@ -1,5 +1,5 @@
 
-## The following text may be used as a template by your company to support the GPLv2 Cure Commitment initiative. 
+#### The following text may be used as a template by your company to support the GPLv2 Cure Commitment initiative. 
 
 Our Commitment
 
