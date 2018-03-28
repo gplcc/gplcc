@@ -16,5 +16,12 @@ If you would like to see a list of individuals who have joined this initiative, 
 
 If you would like to see a list of companies who have joined this initiative, click this [link](https://github.com/commoncure/GPLv2-Cure-Commitment/blob/14b8082ed46e2f62509f2b9ca36f10c012b70a05/Company/Company-List.md)
 
+#### Important Information
+
+This repository is managed by Red Hat, Inc. Red Hat is managing this repository since we have the resources and want to use those resources to help drive this iniative as a service to the open source community. Red Hat’s intention is to let the world know that various companies and individuals such as yourself cosupport this initiative and have agreed to the GPLv2 Cure Commitment terms.  
+
+If you are an individual, we suggest that you only provide your name an no other identifying information about yourself. The decision is yours of course but you should know that if you provide more informaiton such as your email, phone number, address that the general public will have access to that information.  Red Hat promisies to never contact you using information you are providing to this repository on GitHub in connection with this iniativie but we cannot promise that others will not do that.  
+
+
 
 
