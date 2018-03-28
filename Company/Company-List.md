@@ -1,5 +1,7 @@
-# The following companies have agreed to the GPLv2 Cure Commitment - Corporate.
-#### The text of the commitment is may be found in the file "GPLv2 Cure Commitment-Corporate.md" in this Github repository.
+# The following companies have agreed to the GPLv2 Cure Commitment.
+#### You may find the the actual text of each company's GPLv2 Cure Commitment text at the link provided next to each company name. 
 
-Red Hat, Inc.
+Red Hat, Inc.     https://www.redhat.com/en/about/press-releases/technology-industry-leaders-join-forces-increase-predictability-open-source-licensing
+
+
 ...
