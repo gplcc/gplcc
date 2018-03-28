@@ -10,5 +10,11 @@ If you are an **individual** interested in supporting this initiative in your in
 
 If you are a **company** interested in supporting this initiative, please simply follow the instructions provided at this [link](https://github.com/commoncure/GPLv2-Cure-Commitment/blob/73315d70aad0515a020caceeee8106a09785fa23/Company/README-COMPANY.md).
 
+## Interested in seeing who has already joined this initiative?
+
+If you would like to see a list of individuals who have joined this initiative, click [here] (https://github.com/commoncure/GPLv2-Cure-Commitment/blob/14b8082ed46e2f62509f2b9ca36f10c012b70a05/Company/Company-List.md)
+
+If you would like to see a list of companies who have joined this initiative, click [here] (https://github.com/commoncure/GPLv2-Cure-Commitment/blob/14b8082ed46e2f62509f2b9ca36f10c012b70a05/Company/Company-List.md)
+
 
 
