@@ -12,9 +12,9 @@ If you are a **company** interested in supporting this initiative, please simply
 
 ## Interested in seeing who has already joined this initiative?
 
-If you would like to see a list of individuals who have joined this initiative, click this [link] (https://github.com/commoncure/GPLv2-Cure-Commitment/blob/02a3ff7696cce39033791081b6704d1a16a49fee/Individual/README-INDIVIDUAL.md)
+If you would like to see a list of individuals who have joined this initiative, click this [link](https://github.com/commoncure/GPLv2-Cure-Commitment/blob/02a3ff7696cce39033791081b6704d1a16a49fee/Individual/README-INDIVIDUAL.md)
 
-If you would like to see a list of companies who have joined this initiative, click this [link] (https://github.com/commoncure/GPLv2-Cure-Commitment/blob/14b8082ed46e2f62509f2b9ca36f10c012b70a05/Company/Company-List.md)
+If you would like to see a list of companies who have joined this initiative, click this [link](https://github.com/commoncure/GPLv2-Cure-Commitment/blob/14b8082ed46e2f62509f2b9ca36f10c012b70a05/Company/Company-List.md)
 
 
 
