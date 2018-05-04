@@ -29,4 +29,4 @@ Definitions:
 
 ...
 
-Joe Schram
+Joseph D. Schram
