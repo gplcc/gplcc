@@ -27,8 +27,6 @@ Definitions:
 
 #### THE ABOVE COMMITMENT IS AGREED TO BY THE FOLLOWING INDIVIDUALS
 
-...
-
 Joseph D. Schram
 
 Lon Hohberger
