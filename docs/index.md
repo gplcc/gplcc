@@ -33,9 +33,9 @@ Our goal is to get as many GPLv2 and LGPLv2.1 copyright holders as possible to m
 
 ## Ready to sign the commitment?
 
-It's easy. Visit [this page](https://github.com/gplcc/gplcc/blob/745eedd7a16287aea790aa1536a2f102247d2d20/Individual/README-INDIVIDUAL.md), clone the repo, add your name to the bottom of the commitment text, and submit a pull request. Full instructions are provided on the page. 
+It's easy. Visit [this page](https://github.com/gplcc/gplcc/blob/master/Individual/README-INDIVIDUAL.md), clone the repo, add your name to the bottom of the commitment text, and submit a pull request. Full instructions are provided on the page. 
 
-**[Sign the commitment](https://github.com/gplcc/gplcc/blob/745eedd7a16287aea790aa1536a2f102247d2d20/Individual/README-INDIVIDUAL.md)**
+**[Sign the commitment](https://github.com/gplcc/gplcc/blob/master/Individual/README-INDIVIDUAL.md)**
 
 _This commitment is for copyright holders in an individual capacity (i.e. not on behalf of the company for whom you may be working). See the FAQs for information on how companies can make this commitment._
   
