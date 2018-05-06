@@ -74,7 +74,7 @@ We encourage you to add your name to this commitment. The commitment would apply
 
 ### How might a company make this commitment?
 
-[Follow these instructions](https://github.com/gplcc/gplcc/blob/30f9337f74d77a53916d1f14b24024789c7cd461/Company/README-COMPANY.md) if your organization or company is interested in supporting this initiative.
+[Follow these instructions](https://github.com/gplcc/gplcc/blob/master/Company/README-COMPANY.md) if your organization or company is interested in supporting this initiative.
 
 ---
 
