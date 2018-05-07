@@ -36,3 +36,10 @@ Simon Phipps
 Clayton Coleman
 
 Scott Marlow (https://github.com/scottmarlow)
+
+Naveen Malik
+
+Winston Lloyd
+
+Jiří Konečný
+
