@@ -46,3 +46,10 @@ Jiří Konečný
 Máirín Duffy
 
 Adam B Kaplan
+
+Max Rydahl Andersen
+
+Francois Dechery
+
+Narayanan Raghavan
+
