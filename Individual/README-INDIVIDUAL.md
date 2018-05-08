@@ -53,6 +53,8 @@ Francois Dechery
 
 Narayanan Raghavan
 
+Robbie Harwood (https://github.com/frozencemetery)
+
 Valentin Born (born2webdesign)
 
 [Ryan Jarvinen](http://github.com/ryanj)
