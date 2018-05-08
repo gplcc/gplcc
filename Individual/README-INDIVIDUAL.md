@@ -53,5 +53,7 @@ Francois Dechery
 
 Narayanan Raghavan
 
+Valentin Born (born2webdesign)
+
 [Ryan Jarvinen](http://github.com/ryanj)
 
