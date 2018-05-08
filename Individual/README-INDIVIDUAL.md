@@ -53,3 +53,5 @@ Francois Dechery
 
 Narayanan Raghavan
 
+[Ryan Jarvinen](http://github.com/ryanj)
+
