@@ -46,3 +46,7 @@ Jiří Konečný
 Máirín Duffy
 
 Max Rydahl Andersen
+
+Francois Dechery
+
+Narayanan Raghavan
