@@ -60,3 +60,5 @@ Valentin Born (born2webdesign)
 [Ryan Jarvinen](http://github.com/ryanj)
 
 [Christoph Görn](http://b4mad.net/goern)
+
+David Mair
