@@ -62,3 +62,5 @@ Valentin Born (born2webdesign)
 [Christoph Görn](http://b4mad.net/goern)
 
 David Mair
+
+Martin Koller
