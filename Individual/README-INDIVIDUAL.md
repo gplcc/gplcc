@@ -63,4 +63,6 @@ Valentin Born (born2webdesign)
 
 David Mair
 
-Martin Koller
+Martin Kolle
+
+Julen Landa Alustizs
