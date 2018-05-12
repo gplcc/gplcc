@@ -72,3 +72,5 @@ Martin Koller
 Jason Hibbets
 
 Erika Nelson
+
+[Zbigniew Jędrzejewski-Szmek](https://github.com/keszybz)
