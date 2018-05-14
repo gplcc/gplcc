@@ -43,3 +43,32 @@ Winston Lloyd
 
 Jiří Konečný
 
+Máirín Duffy
+
+Adam B Kaplan
+
+Max Rydahl Andersen
+
+Francois Dechery
+
+Narayanan Raghavan
+
+Robbie Harwood (https://github.com/frozencemetery)
+
+Valentin Born (born2webdesign)
+
+[Ryan Jarvinen](http://github.com/ryanj)
+
+[Christoph Görn](http://b4mad.net/goern)
+
+David Mair
+
+Martin Kolle
+
+Julen Landa Alustizs
+
+Martin Koller
+
+Jason Hibbets
+
+Erika Nelson
