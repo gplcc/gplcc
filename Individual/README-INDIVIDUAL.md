@@ -74,3 +74,7 @@ Jason Hibbets
 Erika Nelson
 
 Zachary Snyder
+
+[Thomas Buchinger](https://github.com/ThomasBuchinger)
+
+Robert Krawitz
