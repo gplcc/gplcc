@@ -73,6 +73,8 @@ Jason Hibbets
 
 Erika Nelson
 
+[Zbigniew Jędrzejewski-Szmek](https://github.com/keszybz)
+
 [Philip Wyett](https://kathenas.org)
 
 Tim Burke
@@ -82,5 +84,4 @@ Zachary Snyder
 [Thomas Buchinger](https://github.com/ThomasBuchinger)
 
 Robert Krawitz
-
 
