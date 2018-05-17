@@ -73,4 +73,7 @@ Jason Hibbets
 
 Erika Nelson
 
+[Thomas Buchinger](https://github.com/ThomasBuchinger)
+
 Robert Krawitz
+
