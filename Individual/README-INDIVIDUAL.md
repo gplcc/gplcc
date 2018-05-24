@@ -86,3 +86,6 @@ Zachary Snyder
 Robert Krawitz
 
 Niels de Vos
+
+[Rebecca Fernandez](https://github.com/ruhbehka) 
+
