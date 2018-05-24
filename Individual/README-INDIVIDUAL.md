@@ -86,3 +86,5 @@ Zachary Snyder
 Robert Krawitz
 
 Niels de Vos
+
+[Michael Christenson](https://github.com/m3talsmith)
