@@ -86,3 +86,5 @@ Zachary Snyder
 Robert Krawitz
 
 Niels de Vos
+
+[James Cole](https://github.com/jamcole)
