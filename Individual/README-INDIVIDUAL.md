@@ -86,3 +86,6 @@ Zachary Snyder
 Robert Krawitz
 
 Niels de Vos
+
+[Daniel Oh](https://github.com/danieloh30)
+
