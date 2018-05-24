@@ -86,3 +86,5 @@ Zachary Snyder
 Robert Krawitz
 
 Niels de Vos
+
+[Brenton Leanhardt](https://github.com/brenton)
