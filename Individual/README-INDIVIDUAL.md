@@ -86,3 +86,5 @@ Zachary Snyder
 Robert Krawitz
 
 Niels de Vos
+
+[Patrick Regan](https://github.com/rubbsdecvik)
