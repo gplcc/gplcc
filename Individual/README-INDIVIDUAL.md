@@ -86,3 +86,5 @@ Zachary Snyder
 Robert Krawitz
 
 Niels de Vos
+
+[Tomáš Smetana](https://github.com/tsmetana)
