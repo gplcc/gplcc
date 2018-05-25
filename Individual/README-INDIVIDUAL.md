@@ -86,3 +86,4 @@ Zachary Snyder
 Robert Krawitz
 
 Niels de Vos
+[Javier Ramirez](https://github.com/javilinux)
