@@ -1,4 +1,4 @@
-# GPL Cooperation Commitment - Individual
+﻿# GPL Cooperation Commitment - Individual
 
 If you are an individual interested in supporting this initiative in your individual capacity, you may do so by providing your name to be publicly listed as supporting this initiative and personally adopting the GPLv3 cure provisions as to your copyright in code licensed under  GPLv2, LGPLv2.1 and LGPLv2.  
 
@@ -86,3 +86,4 @@ Zachary Snyder
 Robert Krawitz
 
 Niels de Vos
+Pritesh Kasliwal
