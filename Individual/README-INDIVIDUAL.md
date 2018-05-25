@@ -86,3 +86,5 @@ Zachary Snyder
 Robert Krawitz
 
 Niels de Vos
+
+[Cédric Jeanneret](https://github.com/cjeanner)
