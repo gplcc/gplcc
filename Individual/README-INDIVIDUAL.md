@@ -86,3 +86,5 @@ Zachary Snyder
 Robert Krawitz
 
 Niels de Vos
+
+[Michel Peterson](https://github.com/mpeterson)
