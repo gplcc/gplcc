@@ -87,6 +87,9 @@ Robert Krawitz
 
 Niels de Vos
 
+
+[Rebecca Fernandez](https://github.com/ruhbehka) 
+
 [Michel Peterson](https://github.com/mpeterson)
 
 Masahiro Matsuya
