@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+Xavi Hernandez
+
 [Tomáš Smetana](https://github.com/tsmetana)
 
 [Javier Ramirez](https://github.com/javilinux)
