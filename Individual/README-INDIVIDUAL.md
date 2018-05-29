@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+[Tomáš Smetana](https://github.com/tsmetana)
+
 [Javier Ramirez](https://github.com/javilinux)
 
 Laurent Vivier
