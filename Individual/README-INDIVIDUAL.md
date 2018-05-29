@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+Laurent Vivier
+
 Radek Vokál
 
 Emmanuel Bernard
