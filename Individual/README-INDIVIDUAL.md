@@ -2,7 +2,7 @@
 
 If you are an individual interested in supporting this initiative in your individual capacity, you may do so by providing your name to be publicly listed as supporting this initiative and personally adopting the GPLv3 cure provisions as to your copyright in code licensed under  GPLv2, LGPLv2.1 and LGPLv2.  
 
-To add your name, create a pull request to this file and insert your name at the bottom of this file thereby acknowledging your agreement to the "GPL v2 Cure Commitment - For Individuals"
+To add your name, create a pull request to this file and insert your name at the bottom of this file thereby acknowledging your agreement to the "GPL v2 Cooperation Commitment - For Individuals"
 
 If you want to participate, simply clone the repo, add your name to the bottom of this file (README-INDIVIDUAL.md), and submit a pull request.
 
@@ -88,3 +88,16 @@ Robert Krawitz
 Niels de Vos
 
 Martin André
+
+[Michal Sekletár](https://github.com/msekletar)
+
+Kelly Baugh
+
+Christa Martin
+
+[Simon J. Hernandez](https://github.com/s-mon)
+
+Eric Blake
+
+Margaret Walters
+
