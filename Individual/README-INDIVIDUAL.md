@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+Oscar Carvajal
+
 [Michael McCune](https://github.com/elmiko)
 
 [Beni Paskin-Cherniavsky](https://github.com/cben)
