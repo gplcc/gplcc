@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+[Patrick Regan](https://github.com/rubbsdecvik)
+
 [Alejandro Martinez Ruiz](https://github.com/unleashed)
 
 [Shawn Wells](https://github.com/shawndwells)
