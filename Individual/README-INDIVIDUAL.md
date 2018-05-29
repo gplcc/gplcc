@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+[Brenton Leanhardt](https://github.com/brenton)
+
 [Michael Christenson](https://github.com/m3talsmith)
 
 Mike Bonnet
