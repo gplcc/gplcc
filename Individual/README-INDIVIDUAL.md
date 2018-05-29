@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+[Zhao Wei](https://github.com/billutada)
+
 [James Cole](https://github.com/jamcole)
 
 [David O'Brien](https://github.com/daobrien)
