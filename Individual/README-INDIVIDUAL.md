@@ -87,6 +87,7 @@ Robert Krawitz
 
 Niels de Vos
 
+Brent Dunn
 
 [Cédric Jeanneret](https://github.com/cjeanner)
 
