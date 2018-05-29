@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+Maxim Burgerhout
+
 [Goutham Pacha Ravi](https://github.com/gouthampacha)
 
 [Daniel Oh](https://github.com/danieloh30)
