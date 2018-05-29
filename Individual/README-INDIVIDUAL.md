@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+Masahiro Matsuya
+
 [Patrick Easters](https://github.com/patrickeasters/)
 
 Saravanakumar Arumugam
@@ -128,3 +130,4 @@ Eric Blake
 Margaret Walters
 
 [Ajay Chenampara](https://termlen0.github.io)
+
