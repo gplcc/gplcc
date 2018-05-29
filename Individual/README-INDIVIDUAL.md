@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+[Shawn Wells](https://github.com/shawndwells)
+
 Gabriel Szász
 
 Justin M. Forbes
