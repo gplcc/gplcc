@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+[Daniel Oh](https://github.com/danieloh30)
+
 Brian Stansberry
 
 [Zhao Wei](https://github.com/billutada)
