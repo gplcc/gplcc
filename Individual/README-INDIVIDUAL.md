@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+Seth Kenlon
+
 Sebastian Dunne
 
 [Alberto Gutierrez](https://github.com/aljesusg)
