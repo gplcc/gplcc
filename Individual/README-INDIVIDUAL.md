@@ -88,3 +88,5 @@ Robert Krawitz
 Niels de Vos
 
 [Michal Sekletár](https://github.com/msekletar)
+
+Kelly Baugh
