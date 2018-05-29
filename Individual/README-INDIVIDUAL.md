@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+[Petr Viktorin](https://github.com/encukou)
+
 [Michael Vorburger.ch](https://github.com/vorburger)
 
 Mariano Fernandez
@@ -118,5 +120,4 @@ Eric Blake
 Margaret Walters
 
 [Ajay Chenampara](https://termlen0.github.io)
-
 
