@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+[Michel Peterson](https://github.com/mpeterson)
+
 Masahiro Matsuya
 
 [Patrick Easters](https://github.com/patrickeasters/)
