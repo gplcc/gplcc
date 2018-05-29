@@ -2,7 +2,7 @@
 
 If you are an individual interested in supporting this initiative in your individual capacity, you may do so by providing your name to be publicly listed as supporting this initiative and personally adopting the GPLv3 cure provisions as to your copyright in code licensed under  GPLv2, LGPLv2.1 and LGPLv2.  
 
-To add your name, create a pull request to this file and insert your name at the bottom of this file thereby acknowledging your agreement to the "GPL v2 Cure Commitment - For Individuals"
+To add your name, create a pull request to this file and insert your name at the bottom of this file thereby acknowledging your agreement to the "GPL v2 Cooperation Commitment - For Individuals"
 
 If you want to participate, simply clone the repo, add your name to the bottom of this file (README-INDIVIDUAL.md), and submit a pull request.
 
@@ -31,7 +31,7 @@ Joseph D. Schram
 
 Lon Hohberger
 
-Simon Phipps
+Martin Koller
 
 Clayton Coleman
 
@@ -67,7 +67,7 @@ Martin Kolle
 
 Julen Landa Alustizs
 
-Martin Koller
+Simon Phipps
 
 Jason Hibbets
 
@@ -88,3 +88,72 @@ Robert Krawitz
 Niels de Vos
 
 [Sandro Bonazzola](https://github.com/sandrobonazzola)
+
+Harish Pillay
+
+Oscar Carvajal
+
+[Michael McCune](https://github.com/elmiko)
+
+[Beni Paskin-Cherniavsky](https://github.com/cben)
+
+[Greg Sheremeta](https://github.com/gregsheremeta)
+
+Patrick Uiterwijk
+
+[Paul W. Frields](https://github.com/stickster)
+
+Benjamin Tissoires
+
+Dave Stanley
+
+Stefan van Oirschot
+
+[Rebecca Fernandez](https://github.com/ruhbehka) 
+
+[Michel Peterson](https://github.com/mpeterson)
+
+Masahiro Matsuya
+
+[Patrick Easters](https://github.com/patrickeasters/)
+
+Saravanakumar Arumugam
+
+Tiago Moreira Vieira
+
+Javier Peña
+
+[Petr Viktorin](https://github.com/encukou)
+
+[Michael Vorburger.ch](https://github.com/vorburger)
+
+Mariano Fernandez
+
+Alan Conway
+
+[Patrick Regan](https://github.com/rubbsdecvik)
+
+[Alejandro Martinez Ruiz](https://github.com/unleashed)
+
+[Shawn Wells](https://github.com/shawndwells)
+
+Gabriel Szász
+
+Justin M. Forbes
+
+Martin André
+
+[Michal Sekletár](https://github.com/msekletar)
+
+Kelly Baugh
+
+Christa Martin
+
+[Simon J. Hernandez](https://github.com/s-mon)
+
+Eric Blake
+
+Margaret Walters
+
+[Ajay Chenampara](https://termlen0.github.io)
+
