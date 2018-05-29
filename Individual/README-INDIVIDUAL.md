@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+[Solly Ross](https://github.com/directxman12)
+
 Carlos Maiolino
 
 Pritesh Kasliwal
@@ -176,4 +178,5 @@ Eric Blake
 Margaret Walters
 
 [Ajay Chenampara](https://termlen0.github.io)
+
 
