@@ -87,6 +87,9 @@ Robert Krawitz
 
 Niels de Vos
 
+
+Mariano Fernandez
+
 Alan Conway
 
 [Patrick Regan](https://github.com/rubbsdecvik)
@@ -114,3 +117,4 @@ Eric Blake
 Margaret Walters
 
 [Ajay Chenampara](https://termlen0.github.io)
+
