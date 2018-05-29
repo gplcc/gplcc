@@ -87,6 +87,7 @@ Robert Krawitz
 
 Niels de Vos
 
+Stefan van Oirschot
 
 [Rebecca Fernandez](https://github.com/ruhbehka) 
 
@@ -135,4 +136,5 @@ Eric Blake
 Margaret Walters
 
 [Ajay Chenampara](https://termlen0.github.io)
+
 
