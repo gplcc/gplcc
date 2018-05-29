@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+[David O'Brien](https://github.com/daobrien)
+
 Brent Dunn
 
 [Cédric Jeanneret](https://github.com/cjeanner)
@@ -196,4 +198,3 @@ Eric Blake
 Margaret Walters
 
 [Ajay Chenampara](https://termlen0.github.io)
-
