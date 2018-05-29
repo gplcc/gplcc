@@ -90,3 +90,11 @@ Niels de Vos
 [Michal Sekletár](https://github.com/msekletar)
 
 Kelly Baugh
+
+Christa Martin
+
+[Simon J. Hernandez](https://github.com/s-mon)
+
+Eric Blake
+
+Margaret Walters
