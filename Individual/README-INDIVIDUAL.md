@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+Marcelo Ricardo Leitner
+
 [Paul Richardson](http://github.com/phantomjinx)
 
 Jason Joyce
