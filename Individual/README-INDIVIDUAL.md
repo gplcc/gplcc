@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+Tiago Moreira Vieira
+
 Javier Peña
 
 [Petr Viktorin](https://github.com/encukou)
