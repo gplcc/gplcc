@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+[Paul Richardson](http://github.com/phantomjinx)
+
 Jason Joyce
 
 Sri Sankaran
