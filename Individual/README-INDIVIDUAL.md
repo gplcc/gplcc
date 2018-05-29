@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+Justin M. Forbes
+
 Martin André
 
 [Michal Sekletár](https://github.com/msekletar)
@@ -100,4 +102,5 @@ Christa Martin
 Eric Blake
 
 Margaret Walters
+
 
