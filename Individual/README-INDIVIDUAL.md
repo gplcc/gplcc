@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+[Sandro Bonazzola](https://github.com/sandrobonazzola)
+
 Harish Pillay
 
 Oscar Carvajal
