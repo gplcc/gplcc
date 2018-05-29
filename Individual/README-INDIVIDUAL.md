@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+Javier Peña
+
 [Petr Viktorin](https://github.com/encukou)
 
 [Michael Vorburger.ch](https://github.com/vorburger)
