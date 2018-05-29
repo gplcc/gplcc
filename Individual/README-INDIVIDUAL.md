@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+Harish Pillay
+
 Oscar Carvajal
 
 [Michael McCune](https://github.com/elmiko)
