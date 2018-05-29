@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+[Beni Paskin-Cherniavsky](https://github.com/cben)
+
 [Greg Sheremeta](https://github.com/gregsheremeta)
 
 Patrick Uiterwijk
@@ -146,4 +148,5 @@ Eric Blake
 Margaret Walters
 
 [Ajay Chenampara](https://termlen0.github.io)
+
 
