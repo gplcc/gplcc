@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+Patrick Uiterwijk
+
 [Paul W. Frields](https://github.com/stickster)
 
 Benjamin Tissoires
