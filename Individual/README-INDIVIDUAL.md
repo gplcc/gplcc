@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+Sebastian Dunne
+
 [Alberto Gutierrez](https://github.com/aljesusg)
 
 Marcelo Ricardo Leitner
@@ -168,5 +170,4 @@ Eric Blake
 Margaret Walters
 
 [Ajay Chenampara](https://termlen0.github.io)
-
 
