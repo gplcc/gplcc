@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+Mike Bonnet
+
 Maxim Burgerhout
 
 [Goutham Pacha Ravi](https://github.com/gouthampacha)
