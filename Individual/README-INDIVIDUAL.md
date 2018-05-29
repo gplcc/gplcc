@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+Martin André
+
 [Michal Sekletár](https://github.com/msekletar)
 
 Kelly Baugh
@@ -98,3 +100,4 @@ Christa Martin
 Eric Blake
 
 Margaret Walters
+
