@@ -87,6 +87,9 @@ Robert Krawitz
 
 Niels de Vos
 
+
+[Cédric Jeanneret](https://github.com/cjeanner)
+
 Xavi Hernandez
 
 [Tomáš Smetana](https://github.com/tsmetana)
