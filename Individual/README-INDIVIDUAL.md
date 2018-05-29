@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+Radek Vokál
+
 Emmanuel Bernard
 
 [Sarah Masud](https://github.com/sara-02)
@@ -182,5 +184,4 @@ Eric Blake
 Margaret Walters
 
 [Ajay Chenampara](https://termlen0.github.io)
-
 
