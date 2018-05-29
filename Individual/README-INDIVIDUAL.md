@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+Pavol Loffay
+
 [Sandro Bonazzola](https://github.com/sandrobonazzola)
 
 Harish Pillay
@@ -156,4 +158,5 @@ Eric Blake
 Margaret Walters
 
 [Ajay Chenampara](https://termlen0.github.io)
+
 
