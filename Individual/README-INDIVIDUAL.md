@@ -87,6 +87,8 @@ Robert Krawitz
 
 Niels de Vos
 
+Gabriel Szász
+
 Justin M. Forbes
 
 Martin André
@@ -102,5 +104,3 @@ Christa Martin
 Eric Blake
 
 Margaret Walters
-
-
