@@ -217,11 +217,13 @@ Margaret Walters
 
 [Ajay Chenampara](https://termlen0.github.io)
 
-
 [Sally O'Malley](https://github.com/sallyom)
 
 [Suresh Thiru](https://github.com/sthirugn)
 
 [Bryant Son](https://github.com/bryantson)
 
+[Vincent Danen](https://github.com/vdanen)
+
 [Freddy Rolland](https://github.com/rollandf)
+
