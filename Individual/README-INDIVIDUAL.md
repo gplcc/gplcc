@@ -227,3 +227,5 @@ Margaret Walters
 
 [Freddy Rolland](https://github.com/rollandf)
 
+[Daniel Riek](https://github.com/riekrh)
+
