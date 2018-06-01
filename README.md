@@ -72,6 +72,10 @@ We encourage you to add your name to this commitment. The commitment would apply
 
 [Follow these instructions](https://github.com/gplcc/gplcc/blob/master/Company/README-COMPANY.md) if your organization or company is interested in supporting this initiative.
 
+### What if I have any questions?
+
+Please review all of the above FAQs and other documents on this repository. If you have any further questions, please send an email to gplcc@redhat.com
+
 ---
 
 ## Important privacy information
