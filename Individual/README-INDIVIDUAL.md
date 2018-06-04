@@ -229,3 +229,4 @@ Margaret Walters
 
 [Scott McCarty](https://github.com/fatherlinux)
 
+[Daniel Riek](https://github.com/riekrh)
