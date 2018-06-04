@@ -227,5 +227,6 @@ Margaret Walters
 
 [Freddy Rolland](https://github.com/rollandf)
 
-[Daniel Riek](https://github.com/riekrh)
+[Scott McCarty](https://github.com/fatherlinux)
 
+[Daniel Riek](https://github.com/riekrh)
