@@ -236,3 +236,5 @@ Margaret Walters
 [Stephen Kitt](https://github.com/skitt)
 
 [Stephen Gallagher](https://github.com/sgallagher)
+
+[Bryan Kearney](https://github.com/bkearney)
