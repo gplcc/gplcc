@@ -234,3 +234,5 @@ Margaret Walters
 [Daniel Riek](https://github.com/riekrh)
 
 [Stephen Kitt](https://github.com/skitt)
+
+[Stephen Gallagher](https://github.com/sgallagher)
