@@ -238,3 +238,8 @@ Margaret Walters
 [Stephen Gallagher](https://github.com/sgallagher)
 
 [Bryan Kearney](https://github.com/bkearney)
+
+[Bill Burns](https://github.com/bburns)
+
+[Mark McLoughlin](https://github.com/markmc)
+
