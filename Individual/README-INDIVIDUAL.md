@@ -237,4 +237,6 @@ Margaret Walters
 
 [Stephen Gallagher](https://github.com/sgallagher)
 
+[Bill Burns](https://github.com/bburns)
+
 [Mark McLoughlin](https://github.com/markmc)
