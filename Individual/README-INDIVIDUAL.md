@@ -243,3 +243,4 @@ Margaret Walters
 
 [Mark McLoughlin](https://github.com/markmc)
 
+Thiago Araki
