@@ -246,3 +246,5 @@ Margaret Walters
 Dan Callaghan
 
 [Victoria Martinez de la Cruz](https://github.com/vkmc)
+
+[Radoslav Husar](https://radoslavhusar.com/)
