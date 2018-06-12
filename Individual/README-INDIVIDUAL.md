@@ -247,4 +247,7 @@ Dan Callaghan
 
 [Victoria Martinez de la Cruz](https://github.com/vkmc)
 
+[Philippe Ombredanne](http://github.com/pombredanne)
+
 [Andrew John Hughes](http://fuseyism.com)
+
