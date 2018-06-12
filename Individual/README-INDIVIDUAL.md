@@ -255,4 +255,7 @@ Dan Callaghan
 
 [Andrew John Hughes](http://fuseyism.com)
 
+[Arsenijs Picugins](https://github.com/CRImier)
+
 [Micah Halter](http://mehalter.com)
+
