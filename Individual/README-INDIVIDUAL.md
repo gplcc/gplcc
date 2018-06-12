@@ -248,3 +248,10 @@ Dan Callaghan
 [Victoria Martinez de la Cruz](https://github.com/vkmc)
 
 [Radoslav Husar](https://radoslavhusar.com/)
+
+[Karsten Wade](https://github.com/quaid)
+
+[Philippe Ombredanne](http://github.com/pombredanne)
+
+[Andrew John Hughes](http://fuseyism.com)
+
