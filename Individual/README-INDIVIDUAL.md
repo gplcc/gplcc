@@ -260,3 +260,5 @@ Dan Callaghan
 [Micah Halter](http://mehalter.com)
 
 [Kory Schneider](https://github.com/koryschneider)
+
+[Rishabh Nambiar](https://github.com/rishabhnambiar)
