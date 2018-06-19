@@ -262,3 +262,5 @@ Dan Callaghan
 [Kory Schneider](https://github.com/koryschneider)
 
 [Rishabh Nambiar](https://github.com/rishabhnambiar)
+
+[Michael Grupp](https://github.com/MichaelGrupp)
