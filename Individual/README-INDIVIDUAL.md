@@ -266,3 +266,5 @@ Dan Callaghan
 [Michael Grupp](https://github.com/MichaelGrupp)
 
 [Robert Scheck](https://github.com/robert-scheck)
+
+[Thiago Rafael Becker](https://github.com/trbecker)
