@@ -1,6 +1,6 @@
 ﻿# GPL Cooperation Commitment - Individual
 
-If you are an individual interested in supporting this initiative in your individual capacity, you may do so by providing your name to be publicly listed as supporting this initiative and personally adopting the GPLv3 cure provisions as to your copyright in code licensed under  GPLv2, LGPLv2.1 and LGPLv2.  
+If you are an individual interested in supporting this initiative in your individual capacity, you may do so by providing your name to be publicly listed as supporting this initiative and personally adopting the GPLv3 cure provisions as to your copyright in code licensed under  GPLv2, LGPLv2.1 and LGPLv2.
 
 To add your name, create a pull request to this file and insert your name at the bottom of this file thereby acknowledging your agreement to the "GPL v2 Cooperation Commitment - For Individuals"
 
@@ -13,7 +13,7 @@ If you want to participate, simply clone the repo, add your name to the bottom o
 Solely for any software for which I personally own copyright that is licensed under a Covered License, before filing or continuing to prosecute any legal proceeding or claim (other than a Defensive Action) arising from termination of a Covered License, I commit to extend to the person or entity (“you”) accused of violating the Covered License the following provisions regarding cure and reinstatement, taken from GPL version 3. As used here, the term ‘this License’ refers to the specific Covered License being enforced.
 
 “However, if you cease all violation of this License, then your license from a particular copyright holder is reinstated (a) provisionally, unless and until the copyright holder explicitly and finally terminates your license, and (b) permanently, if the copyright holder fails to notify you of the violation by some reasonable means prior to 60 days after the cessation.
-	 	
+
 Moreover, your license from a particular copyright holder is reinstated permanently if the copyright holder notifies you of the violation by some reasonable means, this is the first time you have received notice of violation of this License (for any work) from that copyright holder, and you cure the violation prior to 30 days after your receipt of the notice.”
 
 I intend   this Commitment to be irrevocable, and binding and enforceable against me and assignees of or successors to my copyrights.
@@ -169,7 +169,7 @@ Dave Stanley
 
 Stefan van Oirschot
 
-[Rebecca Fernandez](https://github.com/ruhbehka) 
+[Rebecca Fernandez](https://github.com/ruhbehka)
 
 [Michel Peterson](https://github.com/mpeterson)
 
@@ -266,3 +266,5 @@ Dan Callaghan
 [Michael Grupp](https://github.com/MichaelGrupp)
 
 [Robert Scheck](https://github.com/robert-scheck)
+
+[Daniel Mellado](https://github.com/danielmellado)
