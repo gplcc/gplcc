@@ -267,6 +267,8 @@ Dan Callaghan
 
 [Robert Scheck](https://github.com/robert-scheck)
 
+[Charles Marshall](https://github.com/otakuidoru) 
+
 [Thiago Rafael Becker](https://github.com/trbecker)
 
 [Lucas Alvares Gomes](https://github.com/umago)
