@@ -268,3 +268,6 @@ Dan Callaghan
 [Robert Scheck](https://github.com/robert-scheck)
 
 [Thiago Rafael Becker](https://github.com/trbecker)
+
+[Lucas Alvares Gomes](https://github.com/umago)
+
