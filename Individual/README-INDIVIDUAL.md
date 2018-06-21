@@ -273,3 +273,4 @@ Dan Callaghan
 
 [Lucas Alvares Gomes](https://github.com/umago)
 
+[Adam Miller](https://github.com/maxamillion)
