@@ -276,3 +276,5 @@ Dan Callaghan
 [Adam Miller](https://github.com/maxamillion)
 
 [Daniel Mellado](https://github.com/danielmellado)
+
+[Will Gordon](https://github.com/wgordon17)
