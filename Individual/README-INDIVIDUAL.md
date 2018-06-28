@@ -281,6 +281,8 @@ Dan Callaghan
 
 [Will Gordon](https://github.com/wgordon17)
 
+[Martin Tessun](https://github.com/mtessun)
+
 [Bernard Cafarelli](https://github.com/voyageur)
 
 [Jason Baker](https://github.com/jehb)
