@@ -280,3 +280,5 @@ Dan Callaghan
 [Kevin Greenwood](https://github.com/kgreenwood)
 
 [Will Gordon](https://github.com/wgordon17)
+
+[Bernard Cafarelli](https://github.com/voyageur)
