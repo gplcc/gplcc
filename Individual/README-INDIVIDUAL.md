@@ -281,6 +281,8 @@ Dan Callaghan
 
 [Will Gordon](https://github.com/wgordon17)
 
+[Matthew Ward](https://github.com/mwardRH)
+
 [Antonio Navarro](https://github.com/antonionc)
 
 [Martin Tessun](https://github.com/mtessun)
