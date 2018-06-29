@@ -290,3 +290,5 @@ Dan Callaghan
 [Bernard Cafarelli](https://github.com/voyageur)
 
 [Jason Baker](https://github.com/jehb)
+
+[Lokesh Mandvekar](https://github.com/lsm5)
