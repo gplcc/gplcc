@@ -296,3 +296,5 @@ Dan Callaghan
 Diane Ferguson
 
 Rene LeBlanc
+
+[Matthew Davis](https://github.com/matthewdavis)
