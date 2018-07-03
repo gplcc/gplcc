@@ -296,3 +296,6 @@ Dan Callaghan
 Diane Ferguson
 
 Rene LeBlanc
+
+[William Caban](https://github.com/williamcaban)
+
