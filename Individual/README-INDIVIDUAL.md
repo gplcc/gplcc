@@ -297,7 +297,8 @@ Diane Ferguson
 
 Rene LeBlanc
 
+[Matthew Davis](https://github.com/matthewdavis)
+
 [Jen Albertson](https://github.com/jlalbertson)
 
 [William Caban](https://github.com/williamcaban)
-
