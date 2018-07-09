@@ -302,3 +302,5 @@ Rene LeBlanc
 [Jen Albertson](https://github.com/jlalbertson)
 
 [William Caban](https://github.com/williamcaban)
+
+[Nicole Baratta](https://github.com/ncbaratta)
