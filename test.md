@@ -15,3 +15,5 @@
 <h4>This is heading 4</h4>
 <h5>This is heading 5</h5>
 <h6>This is heading 6</h6>
+
+<a href="mailto:kbaugh@redhat.com?subject=Add me to the GPL Cooperation Commitment&body=Hi, I would like to have my name added to the GPL Cooperation Commitment.">Add my name to the list of GPL Cooperation Commitment Supporters</a>
