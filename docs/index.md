@@ -102,7 +102,7 @@ We encourage you to add your name to this commitment. The commitment would apply
 
 ### Who can I contact if I have questions?
 
-If you have any further questions, please send an email to gplcc@redhat.com
+If you have any further questions, please send an email to <a href="mailto:gplcc@redhat.com?">gplcc@redhat.com</a>
 
 ---
 
