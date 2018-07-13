@@ -30,8 +30,7 @@ In order to address this imbalance in GPLv2 and LGPLv2.x license enforcement, Re
 
 ---
 
-## 382413
-Make this commitment and tell the world that: 
+## Make this commitment and tell the world that: 
 * You support open source community members whose intent is to foster collaboration and participation.
 * You expect licensees to comply with the GPL and LGPL when redistributing code.
 * You assume positive intent and understand that well-meaning people sometimes make mistakes.
