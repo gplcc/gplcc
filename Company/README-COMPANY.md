@@ -7,7 +7,7 @@
 2. **No Fees.** There are no fees or payments required to participate.
 
 3. **Post the Commitment.**
-- Copy the GPL Cooperation Commitment verbatim from the file “GPL Cooperation Commitment-Company-Template.md”. You can open this file with this [link](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md).
+- Copy the GPL Cooperation Commitment verbatim from the file “GPL Cooperation Commitment-Company-Template.md”. You can open this file with this [link](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md)
 - Search and replace “YOUR COMPANY” with your company name.
 - Post the Commitment on your company’s web page or other publicly facing document(s) (e.g., it could be on your company’s Github home page).
 - Here are some examples:<br>
