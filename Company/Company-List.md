@@ -1,9 +1,7 @@
 # The following companies have agreed to the GPL Cooperation Commitment.
 #### You may find information about each company's commitment to this iniative at the link provided below each company name (listed in alphabetical order). 
 
-CA, Inc.
-
-https://www.ca.com/us/legal/gpl-commitment.html
+[CA, Inc.](https://www.ca.com/us/legal/gpl-commitment.html)
 
 Cisco Systems, Inc.
 
