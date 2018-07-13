@@ -20,4 +20,4 @@
 <button type="button">Click Me!</button>
 
 A test here \[link or no link?] And more text here. 
- >_some text<_
+ >_some text_<
