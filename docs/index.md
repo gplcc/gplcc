@@ -49,17 +49,17 @@ It’s easy!
 [Tell the world that you signed the GPL Cooperation Commitment via Twitter!](http://twitter.com/home?status=I%20signed%20the%20GPL%20Cooperation%20Comitment%20to%20support%20GPL%20enforcement%20consistent%20with%20collaborative%20innovation%20that%20occurs%20in%20open%20source%20communities.%20Please%20join%20https%3A%2Fgplcc.github.io%2Fgplcc%20%23GPLCC%20%23GPL%20%23opensource)
 
 
-_This commitment is for copyright holders in an individual capacity (i.e. not on behalf of the company for whom you may be working). See the FAQs for information on how companies make this commitment._
-
-**Projects.**
-
-A project may wish to adopt the GPL Cooperation Commitment for all contributions going forward. Simply put this [file](https://github.com/gplcc/gplcc/blob/master/Project/COMMITMENT) in the same directory in your source repository as the GPLv2, LGPLv2 or LGPLv2.1 license file. 
+_This commitment is for copyright holders in an individual capacity (i.e. not on behalf of the company for whom you may be working)._
 
 ---
 
 > _“As President of the Open Source Initiative (OSI), I’m pleased to sign my name to the GPL Cooperation Commitment. This recent initiative by Red Hat helps to set a precedent for cooperation in GPL license enforcement―it’s a way to tell the open source community that good intentions matter. I encourage other members of the community to support this initiative by adding your name. Let’s celebrate the 20th anniversary of Open Source by spreading this everywhere!”_ -Simon Phipps
 
 ---
+
+**Projects.**
+
+A project may wish to adopt the GPL Cooperation Commitment for all contributions going forward. Simply put this [file](https://github.com/gplcc/gplcc/blob/master/Project/COMMITMENT) in the same directory in your source repository as the GPLv2, LGPLv2 or LGPLv2.1 license file. 
 
 # FAQs
 
@@ -70,8 +70,7 @@ No. GPLv2 continues to be a very popular and important open source license. It w
 ### How does the GPL Cooperation Commitment work?
 
 One of the features that was introduced in GPLv3 is a “cure” period for license noncompliance, which creates incentives for distributors of GPLv3-licensed code to discover and fix compliance problems. With the GPLv3 cure period, a licensee is afforded a period of time (the cure period) to correct errors in compliance before the license is effectively terminated. Projects that continue to use GPLv2 would benefit from adoption of the GPLv3 approach to correcting compliance errors. It is often impractical for existing GPLv2 and LGPLv2.x-licensed projects to upgrade to the later versions, whether because it would be inconsistent with upstream license obligations or contrary to the general preferences and expectations of participants.
-A copyright holder who signs the GPL Cooperation Commitment is stating that he or she is applying the cure and reinstatement language of GPLv3 to copyrighted code that is licensed under GPLv2, LGPLv2.1 and LGPLv2.
-
+A copyright holder who signs the GPL Cooperation Commitment is stating that they are applying the cure and reinstatement language of GPLv3 to copyrighted code that is licensed under GPLv2, LGPLv2.1 and LGPLv2.
 
 ### Does the GPL Cooperation Commitment itself violate the GPL?
 
