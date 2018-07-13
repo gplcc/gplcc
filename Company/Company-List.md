@@ -15,13 +15,8 @@ IBM
 
 [Microsoft](https://open.microsoft.com/2018/03/19/microsoft-open-source-licensing-gplv3/)
 
-[Red Hat, Inc.](https://www.redhat.com/en/about/press-releases/technology-industry-leaders-join-forces-increase-predictability-open-source-licensing)
-
-https://www.redhat.com/en/about/press-releases/momentum-builds-new-wave-technology-industry-leaders-join-efforts-increase-predictability-open-source-licensing
+[Red Hat, Inc.](https://www.redhat.com/en/about/gplv3-enforcement-statement)
 
 SAP
 
-[SUSE LLC](https://www.suse.com/c/gpl-enforcement-statement/)
-
-https://www.suse.com/licensing/gplv3-enforcement-statement/
-
+[SUSE LLC](https://www.suse.com/licensing/gplv3-enforcement-statement/)
