@@ -12,8 +12,7 @@ Our goal is to reduce opportunities for abusive enforcement tactics and, more br
 
 The GPL Cooperation Commitment is a statement by GPLv2 and LGPLv2.x copyright holders and other supporters that gives licensees a fair chance to correct violations before their licenses are terminated.
 
-The “automatic termination” feature of  GPLv2 and LGPLv2.x   does not provide an express “cure” period in the event of a violation. This means that a single act of inadvertent non-compliance could give rise to an infringement claim, with no obligation to provide notice prior to taking legal action. When GPLv3 was introduced in 2007434600
-, one of the key improvements was the inclusion of a cure period. 
+The “automatic termination” feature of  GPLv2 and LGPLv2.x   does not provide an express “cure” period in the event of a violation. This means that a single act of inadvertent non-compliance could give rise to an infringement claim, with no obligation to provide notice prior to taking legal action. When GPLv3 was introduced in 2007, one of the key improvements was the inclusion of a cure period. 
 
 In order to address this imbalance in GPLv2 and LGPLv2.x license enforcement, Red Hat, IBM, Google, and Facebook announced in November 2017 a commitment to apply the GPLv3  cure provisions for their GPLv2 and LGPLv2.x licensed software. In March 2018, six additional companies — CA Technologies, Cisco, HPE, Microsoft, SAP, and SUSE — announced that they too were making the commitment. The cure approach has support across the open source community, including individual developers and users. It is the same approach that was adopted in 2017 by over a hundred Linux kernel developers, and is also among the Principles of Community-Oriented GPL Enforcement promulgated by the Software Freedom Conservancy. Red Hat has adopted the cure approach for all new Red Hat-initiated open source projects that opt to use GPLv2 or LGPLv2.1. Similarly, a growing number of existing Red Hat-led GPLv2 and LGPLv2.x projects are adopting the cure commitment for new contributions. Finally, there is also an initiative to enable individual developers to add their names to the cure approach.
 
@@ -58,7 +57,7 @@ A project may wish to adopt the GPL Cooperation Commitment for all contributions
 
 ---
 
-> _“As President of the Open Source Initiative (OSI), I’m pleased to sign my name to the GPL Cooperation Commitment. This recent initiative by Red Hat helps to set a precedent for cooperation in GPL license enforcement―it’s a way to tell the open source community that good intentions matter. I encourage other members of the community to support this initiative by adding your name. Let’s celebrate the 20th anniversary of Open Source by spreading this everywhere!”_ -Simon Phipps<
+> _“As President of the Open Source Initiative (OSI), I’m pleased to sign my name to the GPL Cooperation Commitment. This recent initiative by Red Hat helps to set a precedent for cooperation in GPL license enforcement―it’s a way to tell the open source community that good intentions matter. I encourage other members of the community to support this initiative by adding your name. Let’s celebrate the 20th anniversary of Open Source by spreading this everywhere!”_ -Simon Phipps
 
 ---
 
