@@ -7,31 +7,21 @@ Cisco Systems, Inc.
 
 Facebook, Inc.
 
-Google LLC
+[Google LLC](https://opensource.google.com/gpl-enforcement/)
 
-https://opensource.google.com/gpl-enforcement/
-
-HPE
-
-https://news.hpe.com/hpe-joins-other-community-leaders-in-protecting-developers-and-enabling-innovation/
+[HPE](https://news.hpe.com/hpe-joins-other-community-leaders-in-protecting-developers-and-enabling-innovation/)
 
 IBM
 
-Microsoft
+[Microsoft](https://open.microsoft.com/2018/03/19/microsoft-open-source-licensing-gplv3/)
 
-https://open.microsoft.com/2018/03/19/microsoft-open-source-licensing-gplv3/
-
-Red Hat, Inc.   
-
-https://www.redhat.com/en/about/press-releases/technology-industry-leaders-join-forces-increase-predictability-open-source-licensing
+[Red Hat, Inc.](https://www.redhat.com/en/about/press-releases/technology-industry-leaders-join-forces-increase-predictability-open-source-licensing)
 
 https://www.redhat.com/en/about/press-releases/momentum-builds-new-wave-technology-industry-leaders-join-efforts-increase-predictability-open-source-licensing
 
 SAP
 
-SUSE LLC
-
-https://www.suse.com/c/gpl-enforcement-statement/
+[SUSE LLC](https://www.suse.com/c/gpl-enforcement-statement/)
 
 https://www.suse.com/licensing/gplv3-enforcement-statement/
 
