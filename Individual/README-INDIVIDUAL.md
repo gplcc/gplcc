@@ -308,4 +308,7 @@ Rene LeBlanc
 
 [Dan Walsh](https://github.com/rhatdan)
 
+[Bill Nottingham](https://github.com/wenottingham/)
+
 [Jona Azizaj](https://github.com/jonatoni)
+
