@@ -308,6 +308,8 @@ Rene LeBlanc
 
 [Nicole Baratta](https://github.com/ncbaratta)
 
+[Roman Mohr](https://github.com/rmohr)
+
 [Alexander Jacocks](https://github.com/ajacocks)
 
 [Shayne Czyzewski](https://github.com/shayneski)
