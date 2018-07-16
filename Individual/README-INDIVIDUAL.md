@@ -305,3 +305,5 @@ Rene LeBlanc
 [William Caban](https://github.com/williamcaban)
 
 [Nicole Baratta](https://github.com/ncbaratta)
+
+[Roman Mohr](https://github.com/rmohr)
