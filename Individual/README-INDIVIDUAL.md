@@ -305,4 +305,7 @@ Rene LeBlanc
 [William Caban](https://github.com/williamcaban)
 
 [Nicole Baratta](https://github.com/ncbaratta)
+
 [Dan Walsh](https://github.com/rhatdan)
+
+[Jona Azizaj](https://github.com/jonatoni)
