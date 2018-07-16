@@ -28,6 +28,8 @@ Definitions:
 
 #### THE ABOVE COMMITMENT IS AGREED TO BY THE FOLLOWING INDIVIDUALS
 
+Michael K. Dolan Jr. (https://github.com/mkdolan)
+
 Joseph D. Schram
 
 Lon Hohberger
