@@ -1,39 +1,51 @@
 # The following companies have agreed to the GPL Cooperation Commitment.
 #### You may find information about each company's commitment to this iniative at the link provided below each company name (listed in alphabetical order). 
 
-CA, Inc.
+[Amazon](https://aws.github.io/gpl-commitment.html)
 
-https://www.ca.com/us/legal/gpl-commitment.html
+[Arm Limited](https://www.arm.com/company/policies/open-source)
+
+[CA, Inc.](https://www.ca.com/us/legal/gpl-commitment.html)
+
+Canonical
 
 Cisco Systems, Inc.
 
 Facebook, Inc.
 
-Google LLC
+[GitLab](https://docs.gitlab.com/ee/development/licensing.html#gpl-cooperation-commitment)
 
-https://opensource.google.com/gpl-enforcement/
+[Google LLC](https://opensource.google.com/gpl-enforcement/)
 
-HPE
+[HPE](https://news.hpe.com/hpe-joins-other-community-leaders-in-protecting-developers-and-enabling-innovation/)
 
-https://news.hpe.com/hpe-joins-other-community-leaders-in-protecting-developers-and-enabling-innovation/
+[IBM](https://developer.ibm.com/code/open/)
 
-IBM
+[Intel](https://software.intel.com/en-us/blogs/2018/07/16/extending-rights-address-open-source-compliance-issues)
 
-Microsoft
+[Liferay](https://community.liferay.com/gplv3-enforcement-statement)
 
-https://open.microsoft.com/2018/03/19/microsoft-open-source-licensing-gplv3/
+[Linaro](https://www.linaro.org/blog/keeping-open-source-fair-open-and-collaborative/)
 
-Red Hat, Inc.   
+[Microsoft](https://open.microsoft.com/2018/03/19/microsoft-open-source-licensing-gplv3/)
 
-https://www.redhat.com/en/about/press-releases/technology-industry-leaders-join-forces-increase-predictability-open-source-licensing
+[MariaDB](https://mariadb.com/resources/blog/mariadb-pledges-cure-period-open-source-licenses)
 
-https://www.redhat.com/en/about/press-releases/momentum-builds-new-wave-technology-industry-leaders-join-efforts-increase-predictability-open-source-licensing
+NEC
+
+[Pivotal](https://content.pivotal.io/pivotal-blog/pivotal-joins-other-technology-industry-leaders-to-advance-open-source-licensing)
+
+[Red Hat, Inc.](https://www.redhat.com/en/about/gplv3-enforcement-statement)
+
+Royal Philips
 
 SAP
 
-SUSE LLC
+SAS
 
-https://www.suse.com/c/gpl-enforcement-statement/
+[SUSE LLC](https://www.suse.com/licensing/gplv3-enforcement-statement/)
 
-https://www.suse.com/licensing/gplv3-enforcement-statement/
+Toyota
+
+[VMware](http://vmware.github.io/gpl-commitment)
 

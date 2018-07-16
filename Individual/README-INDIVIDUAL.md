@@ -2,11 +2,12 @@
 
 If you are an individual interested in supporting this initiative in your individual capacity, you may do so by providing your name to be publicly listed as supporting this initiative and personally adopting the GPLv3 cure provisions as to your copyright in code licensed under  GPLv2, LGPLv2.1 and LGPLv2.  
 
-To add your name, create a pull request to this file and insert your name at the bottom of this file thereby acknowledging your agreement to the "GPL v2 Cooperation Commitment - For Individuals"
+To add your name, create a pull request to this file and insert your name at the bottom of this file thereby acknowledging your agreement to the "GPL v2 Cooperation Commitment - For Individuals"  From there, the administrator of this repository will approve and merge the pull requests on a periodic basis*.
 
-If you want to participate, simply clone the repo, add your name to the bottom of this file (README-INDIVIDUAL.md), and submit a pull request.
+<a href="mailto:gplcc@redhat.com?subject=Add me to the GPL Cooperation Commitment&body=Hi, I would like to have my name added to the GPL Cooperation Commitment.">Alternatively, you may click here which will automatically generate an email requesting the administrator to add your name to commitment. </a>
 
-*From there, the administrator of this repository will approve and merge the pull requests on a periodic basis*.
+
+[Tell the world that you signed the GPL Cooperation Commitment via Twitter!](http://twitter.com/home?status=I%20signed%20the%20GPL%20Cooperation%20Comitment%20to%20support%20GPL%20enforcement%20consistent%20with%20collaborative%20innovation%20that%20occurs%20in%20open%20source%20communities.%20Please%20join%20https%3A%2Fgplcc.github.io%2Fgplcc%20%23GPLCC%20%23GPL%20%23opensource)
 
 ### GPL Cooperation Commitment - For Individuals
 
@@ -306,3 +307,6 @@ Rene LeBlanc
 [Nicole Baratta](https://github.com/ncbaratta)
 
 [Bill Nottingham](https://github.com/wenottingham/)
+
+[Jona Azizaj](https://github.com/jonatoni)
+
