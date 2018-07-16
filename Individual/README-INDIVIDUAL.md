@@ -28,6 +28,8 @@ Definitions:
 
 #### THE ABOVE COMMITMENT IS AGREED TO BY THE FOLLOWING INDIVIDUALS
 
+Michael K. Dolan Jr. (https://github.com/mkdolan)
+
 Joseph D. Schram
 
 Lon Hohberger
@@ -307,3 +309,12 @@ Rene LeBlanc
 [Nicole Baratta](https://github.com/ncbaratta)
 
 [Shayne Czyzewski](https://github.com/shayneski)
+
+[Jeff Needle](https://people.redhat.com/jneedle)
+
+[Dan Walsh](https://github.com/rhatdan)
+
+[Bill Nottingham](https://github.com/wenottingham/)
+
+[Jona Azizaj](https://github.com/jonatoni)
+
