@@ -322,3 +322,6 @@ Rene LeBlanc
 
 [Jona Azizaj](https://github.com/jonatoni)
 
+Sandra Falzarano
+
+Karen Noel
