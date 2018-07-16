@@ -306,4 +306,7 @@ Rene LeBlanc
 
 [Nicole Baratta](https://github.com/ncbaratta)
 
+[Bill Nottingham](https://github.com/wenottingham/)
+
 [Jona Azizaj](https://github.com/jonatoni)
+
