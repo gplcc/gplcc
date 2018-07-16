@@ -308,6 +308,8 @@ Rene LeBlanc
 
 [Nicole Baratta](https://github.com/ncbaratta)
 
+[Jeff Needle](https://people.redhat.com/jneedle)
+
 [Dan Walsh](https://github.com/rhatdan)
 
 [Bill Nottingham](https://github.com/wenottingham/)
