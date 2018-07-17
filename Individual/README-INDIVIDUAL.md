@@ -325,3 +325,5 @@ Rene LeBlanc
 Sandra Falzarano
 
 Karen Noel
+
+Ian Checkley
