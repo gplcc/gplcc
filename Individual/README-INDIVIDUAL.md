@@ -331,3 +331,5 @@ Ian Checkley
 [Sergio Lopez](https://github.com/slp)
 
 Jason E. Rist
+
+[Gerard Ryan](https://github.com/grdryn)
