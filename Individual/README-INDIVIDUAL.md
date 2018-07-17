@@ -327,3 +327,5 @@ Sandra Falzarano
 Karen Noel
 
 Ian Checkley
+
+Jason E. Rist
