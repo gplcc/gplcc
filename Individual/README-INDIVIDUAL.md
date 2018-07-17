@@ -329,3 +329,5 @@ Karen Noel
 Ian Checkley
 
 [Sergio Lopez](https://github.com/slp)
+
+Jason E. Rist
