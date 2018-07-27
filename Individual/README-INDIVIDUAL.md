@@ -335,3 +335,5 @@ Jason E. Rist
 [Gerard Ryan](https://github.com/grdryn)
 
 [Frédéric Giloux](https://github.com/fgiloux)
+
+Sylvia Reyes
