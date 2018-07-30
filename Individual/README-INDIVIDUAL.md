@@ -337,3 +337,5 @@ Jason E. Rist
 [Frédéric Giloux](https://github.com/fgiloux)
 
 Sylvia Reyes
+
+Karen Noel
