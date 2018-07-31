@@ -9,7 +9,7 @@
 
 Canonical
 
-Cisco Systems, Inc.
+[Cisco Systems, Inc.](https://www.cisco.com/c/en/us/about/legal/open-source-documentation.html)
 
 Facebook, Inc.
 
