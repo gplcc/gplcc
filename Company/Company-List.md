@@ -45,7 +45,7 @@ SAP
 
 [SUSE LLC](https://www.suse.com/licensing/gplv3-enforcement-statement/)
 
-Toyota
+[Toyota](https://www.toyota.co.jp/jpn/sustainability/governance/compliance/Toyota_GPL_Commitment.pdf)
 
 [VMware](http://vmware.github.io/gpl-commitment)
 
