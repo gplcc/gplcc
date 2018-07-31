@@ -339,3 +339,5 @@ Jason E. Rist
 Sylvia Reyes
 
 Karen Noel
+
+Yuri Lewash
