@@ -22,5 +22,5 @@
 - Red Hat plans to issue additional press releases announcing the names of the new companies that have agreed to adopt the GPL Cooperation Commitment. Details:
     * Red Hat will provide you with a draft of the press release for your internal review.<br>
     * The press release would include your Company’s name.<br>
-    * We Would encourage you to provide a quote for inclusion in the press release.<br>
-    * For example, [here is a link](https://www.redhat.com/en/about/press-releases/momentum-builds-new-wave-technology-industry-leaders-join-efforts-increase-predictability-open-source-licensing) to the March 2018 press release.
+    * We would encourage you to provide a quote for inclusion in the press release.<br>
+    * For example, here are links to the [March 2018](https://www.redhat.com/en/about/press-releases/momentum-builds-new-wave-technology-industry-leaders-join-efforts-increase-predictability-open-source-licensing) and [July 2018](https://www.redhat.com/en/about/press-releases/movement-builds-diverse-group-14-additional-leaders-seek-greater-predictability-open-source-licensing) press releases.
