@@ -20,9 +20,7 @@
     * [HPE’s blog](https://news.hpe.com/hpe-joins-other-community-leaders-in-protecting-developers-and-enabling-innovation/)<br>
 - Add your company name to the Company-List.md file in this repository and add a link to your GPL Cooperation Commitment text. You do this by initiating a pull request to the Company-List.md file in this repository.
 
-<a href="mailto:gplcc@redhat.com?subject=Please add my company to the GPL Cooperation Commitment&body=Hi, I would like to have my company added to the GPL Cooperation Commitment.%0D%0AI represent that I have the authority to make this request.%0D%0AThe company name is: INSERT COMPANY NAME%0D%0AThe URL to the company's GPL Cooperation Commitment is: INSERT LINK %0D%0AMy name is:  INSERT YOUR NAME %0D%0AMy email is: INSERT YOUR EMAIL%0D%0A">Alternatively, you may click here which will automatically generate an email requesting the administrator to add your company to commitment
-
-">Alternatively, you may click here which will automatically generate an email requesting the administrator to add your company to commitment.</a>
+<a href="mailto:gplcc@redhat.com?subject=Please add my company to the GPL Cooperation Commitment&body=Hi, I would like to have my company added to the GPL Cooperation Commitment.%0D%0A%0D%0AI represent that I have the authority to make this request.%0D%0A%0D%0AThe company name is: INSERT COMPANY NAME%0D%0A%0D%0AThe URL to the company's GPL Cooperation Commitment is: INSERT LINK %0D%0A%0D%0AMy name is:  INSERT YOUR NAME %0D%0AMy email is: INSERT YOUR EMAIL%0D%0A%0D%0A">Alternatively, you may click here which will automatically generate an email requesting the administrator to add your company to commitment"></a>
 
 - Red Hat plans to issue additional press releases announcing the names of the new companies that have agreed to adopt the GPL Cooperation Commitment. Details:
     * Red Hat will provide you with a draft of the press release for your internal review.<br>
