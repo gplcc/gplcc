@@ -351,3 +351,5 @@ Roland Boemer
 [Carol Chen](https://github.com/cybette)
 
 Garry Vaughn
+
+John Velayudhan
