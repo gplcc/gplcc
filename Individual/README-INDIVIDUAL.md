@@ -357,3 +357,5 @@ John Velayudhan
 [Matija Šuklje](http://matija.suklje.name)
 
 Margo Doty
+
+Pere Benavent
