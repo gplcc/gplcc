@@ -361,3 +361,5 @@ Margo Doty
 Pere Benavent
 
 [Suman Kumar](https://github.com/suman-kr)
+
+[Richard Fontana](https://github.com/richardfontana)
