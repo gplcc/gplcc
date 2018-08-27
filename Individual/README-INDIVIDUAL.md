@@ -376,3 +376,4 @@ Akshay R. Kapadia
 
 [Marek Čermák](https://github.com/CermakM)
 
+Thomas Claesson
