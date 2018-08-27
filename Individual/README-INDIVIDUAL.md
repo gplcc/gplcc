@@ -371,3 +371,5 @@ Paul Sutton
 Abu Sakib
 
 Akshay R. Kapadia
+
+[Marek Čermák](https://github.com/CermakM)
