@@ -371,3 +371,5 @@ Paul Sutton
 Abu Sakib
 
 Akshay R. Kapadia
+
+[Giuseppe Scrivano](https://github.com/giuseppe)
