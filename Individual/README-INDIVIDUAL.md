@@ -372,4 +372,7 @@ Abu Sakib
 
 Akshay R. Kapadia
 
+[Giuseppe Scrivano](https://github.com/giuseppe)
+
 [Marek Čermák](https://github.com/CermakM)
+
