@@ -379,3 +379,7 @@ Akshay R. Kapadia
 Thomas Claesson
 
 [Gregory Zuckerman](https://github.com/gzuckerman)
+
+Ozgur Kara
+
+Richard King
