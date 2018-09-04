@@ -385,3 +385,5 @@ Ozgur Kara
 Richard King
 
 Ricardo Grant
+
+[Jakub Dubec](https://github.com/Sibyx)
