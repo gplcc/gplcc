@@ -389,3 +389,5 @@ Ricardo Grant
 [Jakub Dubec](https://github.com/Sibyx)
 
 [Francesco Pantano](https://github.com/fmount)
+
+Daniel Dominguez
