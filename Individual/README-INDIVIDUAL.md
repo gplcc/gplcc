@@ -395,3 +395,5 @@ Daniel Dominguez
 Amjad Yaseen 
 
 Khaled Algharieb
+
+[Betsy Gamrat](https://github.com/bgamrat)
