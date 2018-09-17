@@ -395,3 +395,5 @@ Daniel Dominguez
 Amjad Yaseen 
 
 Khaled Algharieb
+
+[Bernhard "Bero" Rosenkr&auml;nzer](https://github.com/berolinux)
