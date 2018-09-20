@@ -396,4 +396,6 @@ Amjad Yaseen
 
 Khaled Algharieb
 
+[Betsy Gamrat](https://github.com/bgamrat)
+
 [Bernhard "Bero" Rosenkr&auml;nzer](https://github.com/berolinux)
