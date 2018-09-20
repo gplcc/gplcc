@@ -397,3 +397,7 @@ Amjad Yaseen
 Khaled Algharieb
 
 [Lee Hayward](https://thecloud.org.uk)
+
+[Betsy Gamrat](https://github.com/bgamrat)
+
+[Bernhard "Bero" Rosenkr&auml;nzer](https://github.com/berolinux)
