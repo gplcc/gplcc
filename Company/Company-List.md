@@ -1,6 +1,8 @@
 # The following companies have agreed to the GPL Cooperation Commitment.
 #### You may find information about each company's commitment to this iniative at the link provided below each company name (listed in alphabetical order). 
 
+[Alibaba](https://github.com/alibaba/GPL-Cooperation-Commitment/wiki/Alibaba-Group-and-Ant-Financial-announcement-of-joining-the-GPL-Cooperation-Commitment)
+
 [Amazon](https://aws.github.io/gpl-commitment.html)
 
 [Arm Limited](https://www.arm.com/company/policies/open-source)
