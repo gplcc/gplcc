@@ -33,6 +33,8 @@ Facebook, Inc.
 
 [MariaDB](https://mariadb.com/resources/blog/mariadb-pledges-cure-period-open-source-licenses)
 
+Oath
+
 NEC
 
 [Pivotal](https://content.pivotal.io/pivotal-blog/pivotal-joins-other-technology-industry-leaders-to-advance-open-source-licensing)
