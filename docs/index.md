@@ -36,7 +36,7 @@ In order to address this imbalance in GPLv2 and LGPLv2.x license enforcement, Re
 * You assume positive intent and understand that well-meaning people sometimes make mistakes.
 * You have committed to giving licensees a fair chance to correct license violations.
 
-## Ready to sign the commitment?
+## Ready to add your name to the commitment?
 
 **Companies and other Organizations.** If you are a company or other organization, [follow these instructions.](https://github.com/gplcc/gplcc/blob/master/Company/README-COMPANY.md) There is no agreement to sign and it costs nothing.
 
@@ -46,7 +46,7 @@ In order to address this imbalance in GPLv2 and LGPLv2.x license enforcement, Re
 
 It’s easy!
 
-[Tell the world that you signed the GPL Cooperation Commitment via Twitter!](http://twitter.com/home?status=I%20signed%20the%20GPL%20Cooperation%20Commitment%20to%20support%20GPL%20enforcement%20consistent%20with%20collaborative%20innovation%20that%20occurs%20in%20open%20source%20communities.%20Please%20join%20https%3A%2Fgplcc.github.io%2Fgplcc%20%23GPLCC%20%23GPL%20%23opensource)
+[Tell the world that you added your name to the GPL Cooperation Commitment via Twitter!](http://twitter.com/home?status=I%20signed%20the%20GPL%20Cooperation%20Commitment%20to%20support%20GPL%20enforcement%20consistent%20with%20collaborative%20innovation%20that%20occurs%20in%20open%20source%20communities.%20Please%20join%20https%3A%2Fgplcc.github.io%2Fgplcc%20%23GPLCC%20%23GPL%20%23opensource)
 
 
 _This commitment is for copyright holders in an individual capacity (i.e. not on behalf of the company for whom you may be working)._
@@ -84,7 +84,7 @@ The Free Software Foundation supports the approach underlying the GPL Cooperatio
   
 >_Now, in a positive step forward, a group of companies led by Red Hat has announced a commitment in effect adopting an important part of the Principles: They will use the GPLv3's more refined approach to compliance and termination when dealing with violations on their GPLv2-licensed works.<br>. . . . .<br>The announcement of the Common Cure Rights Commitment \[as the GPL Cooperation Commitment was referred to at the time] is welcome news for the free software movement, and we look forward to more organizations either fully adopting the Principles of Community-Oriented GPL Enforcement or making similar commitments in the same spirit. These steps help to strengthen copyleft and therefore the long-term protection of user freedom._<br>
 
-### Why should I sign the formal commitment on GitHub as an individual? Can’t I just decide privately that I will provide the GPLv3 cure provisions to GPLv2 violations?
+### Why should I add my name to the formal commitment on GitHub as an individual? Can’t I just decide privately that I will provide the GPLv3 cure provisions to GPLv2 violations?
 
 Signing the commitment is a way to demonstrate your commitment and publicly communicate to others in the free and open source community that you have adopted the cure provisions. Also by adding your name to this commitment, you are providing more awareness and support for the initiative.
 
