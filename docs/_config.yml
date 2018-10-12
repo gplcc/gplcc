@@ -2,4 +2,6 @@ theme: jekyll-theme-cayman
 title: GPL Cooperation Commitment
 description: Tell the world that you respect the good intentions of the open source community
 show_downloads: false
-
+navbar-links:
+  Resources:
+    - Add your name to the GPL Cooperation Commitment: "https://github.com/gplcc/gplcc/blob/master/Individual/README-INDIVIDUAL.md"
