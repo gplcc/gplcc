@@ -2,13 +2,14 @@
 layout: default
 ---
 # GPL Cooperation Commitment - Individual
+<div style="color: #31708f; background-color: #d9edf7; border-color: #bce8f1;
+padding:15px; margin-bottom: 20px; border: 1px solid"><strong>
+<a href="mailto:gplcc@redhat.com?subject=Add me to the GPL Cooperation Commitment&body=Hi, I would like to have my name added to the GPL Cooperation Commitment.">You may click here which will automatically generate an email requesting the administrator to add your name to commitment.</a></strong>
+</div>
 
-If you are an individual interested in supporting this initiative in your individual capacity, you may do so by providing your name to be publicly listed as supporting this initiative and personally adopting the GPLv3 cure provisions as to your copyright in code licensed under  GPLv2, LGPLv2.1 and LGPLv2.  
+If you are an individual interested in supporting this initiative in your individual capacity, you may do so by providing your name to be publicly listed as supporting this initiative and personally adopting the GPLv3 cure provisions as to your copyright in code licensed under  GPLv2, LGPLv2.1 and LGPLv2.
 
-To add your name, create a pull request to this file and insert your name at the bottom of this file thereby acknowledging your agreement to the "GPL v2 Cooperation Commitment - For Individuals"  From there, the administrator of this repository will approve and merge the pull requests on a periodic basis*.
-
-<a href="mailto:gplcc@redhat.com?subject=Add me to the GPL Cooperation Commitment&body=Hi, I would like to have my name added to the GPL Cooperation Commitment.">Alternatively, you may click here which will automatically generate an email requesting the administrator to add your name to commitment. </a>
-
+Alternatively, create a pull request to this file and insert your name at the bottom of this file thereby acknowledging your agreement to the "GPL v2 Cooperation Commitment - For Individuals"  From there, the administrator of this repository will approve and merge the pull requests on a periodic basis.
 
 [Tell the world that you added your name to the GPL Cooperation Commitment via Twitter!](http://twitter.com/home?status=I%20signed%20the%20GPL%20Cooperation%20Comitment%20to%20support%20GPL%20enforcement%20consistent%20with%20collaborative%20innovation%20that%20occurs%20in%20open%20source%20communities.%20Please%20join%20https%3A%2Fgplcc.github.io%2Fgplcc%20%23GPLCC%20%23GPL%20%23opensource)
 
@@ -17,7 +18,7 @@ To add your name, create a pull request to this file and insert your name at the
 Solely for any software for which I personally own copyright that is licensed under a Covered License, before filing or continuing to prosecute any legal proceeding or claim (other than a Defensive Action) arising from termination of a Covered License, I commit to extend to the person or entity (“you”) accused of violating the Covered License the following provisions regarding cure and reinstatement, taken from GPL version 3. As used here, the term ‘this License’ refers to the specific Covered License being enforced.
 
 “However, if you cease all violation of this License, then your license from a particular copyright holder is reinstated (a) provisionally, unless and until the copyright holder explicitly and finally terminates your license, and (b) permanently, if the copyright holder fails to notify you of the violation by some reasonable means prior to 60 days after the cessation.
-	 	
+
 Moreover, your license from a particular copyright holder is reinstated permanently if the copyright holder notifies you of the violation by some reasonable means, this is the first time you have received notice of violation of this License (for any work) from that copyright holder, and you cure the violation prior to 30 days after your receipt of the notice.”
 
 I intend   this Commitment to be irrevocable, and binding and enforceable against me and assignees of or successors to my copyrights.
