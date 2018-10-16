@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # GPL Cooperation Commitment - Company
 
 ## Company adoption of the GPL Cooperation Commitment
