@@ -56,3 +56,4 @@ SAP
 
 [VMware](http://vmware.github.io/gpl-commitment)
 
+DENX Software Engineering GmbH
