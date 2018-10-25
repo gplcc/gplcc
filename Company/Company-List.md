@@ -54,7 +54,7 @@ SAP
 
 [Toyota](https://www.toyota.co.jp/jpn/sustainability/governance/compliance/Toyota_GPL_Commitment.pdf)
 
-[Tencent](https://github.com/gplcc/gplcc/blob/master/Company/Company-List.md)
+[Tencent](https://opensource.tencent.com/GPL-Cooperation-Commitment)
 
 [VMware](http://vmware.github.io/gpl-commitment)
 
