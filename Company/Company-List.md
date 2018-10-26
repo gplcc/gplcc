@@ -16,6 +16,8 @@ Canonical
 
 [Cisco Systems, Inc.](https://www.cisco.com/c/en/us/about/legal/open-source-documentation.html)
 
+[Etsy, Inc.](http://etsy.github.io/gpl-coop-commitment.html)
+
 Facebook, Inc.
 
 [GitLab](https://docs.gitlab.com/ee/development/licensing.html#gpl-cooperation-commitment)
