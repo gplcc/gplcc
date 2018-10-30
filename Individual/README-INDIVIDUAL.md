@@ -421,3 +421,5 @@ Chikita Isaac
 Rachel Portnoy
 
 Matt Kinney
+
+[Dan Yeaw](https://github.com/danyeaw)
