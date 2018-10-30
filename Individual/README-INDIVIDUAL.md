@@ -423,3 +423,8 @@ Rachel Portnoy
 Matt Kinney
 
 [Dan Yeaw](https://github.com/danyeaw)
+
+Ed Hussey
+
+Amy Ross
+
