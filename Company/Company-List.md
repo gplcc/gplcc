@@ -38,7 +38,7 @@ Facebook, Inc.
 
 [MariaDB](https://mariadb.com/resources/blog/mariadb-pledges-cure-period-open-source-licenses)
 
-Oath
+[Oath](https://developer.yahoo.com/opensource/gplcc/)
 
 NEC
 
