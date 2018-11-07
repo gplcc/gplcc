@@ -3,6 +3,10 @@ layout: default
 ---
 # GPL Cooperation Commitment - Company
 
+## See a list of companies that have adopted the GPL Cooperation Commitment
+
+<a href="https://github.com/gplcc/gplcc/blob/master/Company/Company-List.md">See a list of companies that have adopted the GPL Cooperation Commitment</a>
+
 ## Company adoption of the GPL Cooperation Commitment
 
 1. **No Agreement.** There are no agreements or other documents to sign.
@@ -29,4 +33,9 @@ layout: default
     * Red Hat will provide you with a draft of the press release for your internal review.<br>
     * The press release would include your Company’s name.<br>
     * We would encourage you to provide a quote for inclusion in the press release.<br>
-    * For example, here are links to the [March 2018](https://www.redhat.com/en/about/press-releases/momentum-builds-new-wave-technology-industry-leaders-join-efforts-increase-predictability-open-source-licensing) and [July 2018](https://www.redhat.com/en/about/press-releases/movement-builds-diverse-group-14-additional-leaders-seek-greater-predictability-open-source-licensing) press releases.
+    * For example, here are links to the [March 2018](https://www.redhat.com/en/about/press-releases/momentum-builds-new-wave-technology-industry-leaders-join-efforts-increase-predictability-open-source-licensing) and [July 2018](https://www.redhat.com/en/about/press-releases/movement-builds-diverse-group-14-additional-leaders-seek-greater-predictability-open-source-licensing) press releases.
+    
+<a href="https://gplcc.github.io/gplcc/">Return to the GPL Cooperation Commitment main page.</a>
+ 
+    
+    
