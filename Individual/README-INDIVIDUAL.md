@@ -1,6 +1,8 @@
 ﻿---
 layout: default
 ---
+# GPL Cooperation Commitment
+
 <div style="color: #31708f; background-color: #d9edf7; border-color: #bce8f1;
 padding:15px; margin-bottom: 20px; border: 1px solid"><strong>
 <a href="mailto:gplcc@redhat.com?subject=Add me to the GPL Cooperation Commitment&body=Hi, I would like to have my name added to the GPL Cooperation Commitment.">CLICK HERE to add your name to the Commitment.</a></strong>
