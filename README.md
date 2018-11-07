@@ -3,6 +3,8 @@ layout: default
 permalink: index.html
 ---
 
+<a href="https://gplcc.github.io/gplcc/">Questions about the GPL Cooperation Commitment?</a><br>
+
 # Join the GPL Cooperation Commitment
 
 Join with leading companies, developers, and other leaders in the open source community who have all committed to provide GPLv2 and LGPLv2.x licensees a fair chance to correct violations before their licenses are terminated.
