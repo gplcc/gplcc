@@ -37,12 +37,14 @@
       <a href="{{site.baseurl}}{% link Company/README-COMPANY.md %}" class="btn">Company</a>
       {% endif %}
       
-      {% if page.path == "README.md" %}
-      <a href="https://github.com/gplcc/gplcc" class="btn">Project</a>
+       {% if page.path == "README.md" %}
+      <a href="{{site.baseurl}}{% link Project/README-PROJECT.md %}" class="btn">Company</a>
       {% endif %}
-     
       
-    
+      {% if page.path == "README.md" %}
+      <a href="https://github.com/gplcc/gplcc" class="btn">Visit the GitHub Project Repository</a>
+      {% endif %}
+      
     </header>
 
     <main id="content" class="main-content" role="main">
