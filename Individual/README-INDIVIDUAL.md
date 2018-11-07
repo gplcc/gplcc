@@ -4,7 +4,7 @@ layout: default
 # GPL Cooperation Commitment - Individual
 <div style="color: #31708f; background-color: #d9edf7; border-color: #bce8f1;
 padding:15px; margin-bottom: 20px; border: 1px solid"><strong>
-<a href="mailto:gplcc@redhat.com?subject=Add me to the GPL Cooperation Commitment&body=Hi, I would like to have my name added to the GPL Cooperation Commitment.">You may click here which will automatically generate an email requesting the administrator to add your name to commitment.</a></strong>
+<a href="mailto:gplcc@redhat.com?subject=Add me to the GPL Cooperation Commitment&body=Hi, I would like to have my name added to the GPL Cooperation Commitment.">CLICK HERE to add your name to the Commitment.</a></strong>
 </div>
 
 If you are an individual interested in supporting this initiative in your individual capacity, you may do so by providing your name to be publicly listed as supporting this initiative and personally adopting the GPLv3 cure provisions as to your copyright in code licensed under  GPLv2, LGPLv2.1 and LGPLv2.
