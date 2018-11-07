@@ -1,12 +1,18 @@
 ﻿---
 layout: default
 ---
-# GPL Cooperation Commitment
+# GPL Cooperation Commitment - Individual
 
 <div style="color: #31708f; background-color: #d9edf7; border-color: #bce8f1;
 padding:15px; margin-bottom: 20px; border: 1px solid"><strong>
-<a href="mailto:gplcc@redhat.com?subject=Add me to the GPL Cooperation Commitment&body=Hi, I would like to have my name added to the GPL Cooperation Commitment.">CLICK HERE to add your name to the Commitment.</a></strong>
+<a href=https://github.com/gplcc/gplcc/tree/master/Individual>GitHub guru? Generate a pull request.</a></strong>
 </div>
+
+<div style="color: #31708f; background-color: #d9edf7; border-color: #bce8f1;
+padding:15px; margin-bottom: 20px; border: 1px solid"><strong>
+<a href="mailto:gplcc@redhat.com?subject=Add me to the GPL Cooperation Commitment&body=Hi, I would like to have my name added to the GPL Cooperation Commitment.">New to GitHub? We can add your name.</a></strong>
+</div>
+
 <br>
 
 If you are an individual interested in supporting this initiative in your individual capacity, you may do so by providing your name to be publicly listed as supporting this initiative and personally adopting the GPLv3 cure provisions as to your copyright in code licensed under  GPLv2, LGPLv2.1 and LGPLv2.
