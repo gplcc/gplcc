@@ -30,8 +30,13 @@
       {% endif %}
 
       {% if page.path == "README.md" %}
-      <a href="{{site.baseurl}}{% link Individual/README-INDIVIDUAL.md %}" class="btn">Add Your Name to the GPL Cooperation Commitment</a>
+      <a href="{{site.baseurl}}{% link Individual/README-INDIVIDUAL.md %}" class="btn">Individual</a>
       {% endif %}
+      
+      {% if page.path == "README.md" %}
+      <a href="{{site.baseurl}}{% link Company/README-COMPANY.md %}" class="btn">Company</a>
+      {% endif %}
+    
     </header>
 
     <main id="content" class="main-content" role="main">
