@@ -4,11 +4,23 @@ layout: default
 # The following companies have agreed to the GPL Cooperation Commitment.
 #### You may find information about each company's commitment to this iniative at the link provided below each company name (listed in alphabetical order). 
 
-[Alibaba](https://github.com/alibaba/GPL-Cooperation-Commitment/wiki/Alibaba-Group-and-Ant-Financial-announcement-of-joining-the-GPL-Cooperation-Commitment)
+[Adobe](https://medium.com/adobetech/adobe-joins-the-gpl-cooperation-commitment-d6cfa60e387c)
+
+[Alibaba and Ant Financial](https://github.com/alibaba/GPL-Cooperation-Commitment/wiki/Alibaba-Group-and-Ant-Financial-announcement-of-joining-the-GPL-Cooperation-Commitment)
+
+[Amadeus](https://amadeus.com/en/topic/open-source/our-commitment)
 
 [Amazon](https://aws.github.io/gpl-commitment.html)
 
 [Arm Limited](https://www.arm.com/company/policies/open-source)
+
+[Atlassian](https://developer.atlassian.com/platform/open-source/gpl-commitment/)
+
+[Atos](https://atos.net/en/2018/partners_2018_10_23/atos-gpl-cooperation-commitment)
+
+[AT&T](https://github.com/att/commitment/blob/master/commitment.md)
+
+[Bandwidth](https://www.bandwidth.com/legal/gpl-cooperation-commitment/)
 
 [CA, Inc.](https://www.ca.com/us/legal/gpl-commitment.html)
 
@@ -16,13 +28,19 @@ Canonical
 
 [Cisco Systems, Inc.](https://www.cisco.com/c/en/us/about/legal/open-source-documentation.html)
 
+DENX Software Engineering GmbH
+
 [Etsy, Inc.](http://etsy.github.io/gpl-coop-commitment.html)
 
 Facebook, Inc.
 
+[Github](https://help.github.com/articles/github-gpl-cooperation-commitment/)
+
 [GitLab](https://docs.gitlab.com/ee/development/licensing.html#gpl-cooperation-commitment)
 
 [Google LLC](https://opensource.google.com/gpl-enforcement/)
+
+Hitachi
 
 [HPE](https://news.hpe.com/hpe-joins-other-community-leaders-in-protecting-developers-and-enabling-innovation/)
 
@@ -38,13 +56,17 @@ Facebook, Inc.
 
 [MariaDB](https://mariadb.com/resources/blog/mariadb-pledges-cure-period-open-source-licenses)
 
-[Oath](https://developer.yahoo.com/opensource/gplcc/)
-
 NEC
+
+[NVIDIA](https://developer.nvidia.com/gpl-cooperation-commitment)
+
+[Oath](https://developer.yahoo.com/opensource/gplcc/)
 
 [Pivotal](https://content.pivotal.io/pivotal-blog/pivotal-joins-other-technology-industry-leaders-to-advance-open-source-licensing)
 
 [Red Hat, Inc.](https://www.redhat.com/en/about/gplv3-enforcement-statement)
+
+[Renesas](https://www.renesas.com/eu/en/img/solutions/automotive/rcar-demoboard/renesas-gpl-commitment.pdf)
 
 Royal Philips
 
@@ -54,10 +76,10 @@ SAP
 
 [SUSE LLC](https://www.suse.com/licensing/gplv3-enforcement-statement/)
 
-[Toyota](https://www.toyota.co.jp/jpn/sustainability/governance/compliance/Toyota_GPL_Commitment.pdf)
-
 [Tencent](https://opensource.tencent.com/GPL-Cooperation-Commitment)
 
-[VMware](http://vmware.github.io/gpl-commitment)
+[Toyota](https://www.toyota.co.jp/jpn/sustainability/governance/compliance/Toyota_GPL_Commitment.pdf)
 
-DENX Software Engineering GmbH
+[Twitter](http://github.com/twitter/gpl-commitment)
+
+[VMware](http://vmware.github.io/gpl-commitment)
