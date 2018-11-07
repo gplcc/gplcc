@@ -74,6 +74,8 @@ SAP
 
 [SAS](https://support.sas.com/en/documentation/gpl-compliance-commitment.html)
 
+<a href="https://gplcc.github.io/gplcc/">Return to the GPL Cooperation Commitment main page.</a>
+
 Sony
 
 [SUSE LLC](https://www.suse.com/licensing/gplv3-enforcement-statement/)
