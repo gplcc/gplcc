@@ -4,7 +4,8 @@ layout: default
 # GPL Cooperation Commitment - Individual
 
 <strong>
-<a href=https://github.com/gplcc/gplcc/tree/master/Individual>GitHub guru? Generate a pull request.</a></strong>
+<a href=https://github.com/gplcc/gplcc/tree/master/Individual>GitHub guru?>Generate a pull request.</a></strong>
+
 <br>
 
 <strong>
