@@ -5,12 +5,11 @@ layout: default
 
 <strong>
 <a href=https://github.com/gplcc/gplcc/tree/master/Individual>GitHub guru? Generate a pull request.</a></strong>
+<br>
 
 <strong>
 <a href="mailto:gplcc@redhat.com?subject=Add me to the GPL Cooperation Commitment&body=Hi, I would like to have my name added to the GPL Cooperation Commitment.">New to GitHub? We can add your name.</a></strong>
-
 <br>
-
 If you are an individual interested in supporting this initiative in your individual capacity, you may do so by providing your name to be publicly listed as supporting this initiative and personally adopting the GPLv3 cure provisions as to your copyright in code licensed under  GPLv2, LGPLv2.1 and LGPLv2.
 
 Alternatively, create a pull request to this file and insert your name at the bottom of this file thereby acknowledging your agreement to the "GPL v2 Cooperation Commitment - For Individuals"  From there, the administrator of this repository will approve and merge the pull requests on a periodic basis.
