@@ -3,15 +3,11 @@ layout: default
 ---
 # GPL Cooperation Commitment - Individual
 
-<div style="color: #31708f; background-color: #d9edf7; border-color: #bce8f1;
-padding:15px; margin-bottom: 20px; border: 1px solid"><strong>
+<strong>
 <a href=https://github.com/gplcc/gplcc/tree/master/Individual>GitHub guru? Generate a pull request.</a></strong>
-</div>
 
-<div style="color: #31708f; background-color: #d9edf7; border-color: #bce8f1;
-padding:15px; margin-bottom: 20px; border: 1px solid"><strong>
+<strong>
 <a href="mailto:gplcc@redhat.com?subject=Add me to the GPL Cooperation Commitment&body=Hi, I would like to have my name added to the GPL Cooperation Commitment.">New to GitHub? We can add your name.</a></strong>
-</div>
 
 <br>
 
