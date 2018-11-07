@@ -3,9 +3,7 @@ layout: default
 ---
 # GPL Cooperation Commitment - Company
 
-## See a list of companies that have adopted the GPL Cooperation Commitment
-
-<a href="https://github.com/gplcc/gplcc/blob/master/Company/Company-List.md">See a list of companies that have adopted the GPL Cooperation Commitment</a>
+<b><a href="https://github.com/gplcc/gplcc/blob/master/Company/Company-List.md">See a list of companies that have adopted the GPL Cooperation Commitment</a></b>
 
 ## Company adoption of the GPL Cooperation Commitment
 
