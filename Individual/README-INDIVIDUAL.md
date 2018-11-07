@@ -4,12 +4,14 @@ layout: default
 # GPL Cooperation Commitment - Individual
 
 <strong>
-<a href=https://github.com/gplcc/gplcc/tree/master/Individual>GitHub guru?>Generate a pull request adding your name to the bottom of this file.</a></strong>
+<a href=https://github.com/gplcc/gplcc/tree/master/Individual>GitHub guru? Generate a pull request adding your name to the bottom of this file.</a></strong>
 
 <br>
 
 <strong>
 <a href="mailto:gplcc@redhat.com?subject=Add me to the GPL Cooperation Commitment&body=Hi, I would like to have my name added to the GPL Cooperation Commitment.">New to GitHub? We can add your name.</a></strong>
+
+<a href=https://gplcc.github.io/gplcc/>Questions about the GPL Cooperation Commitment?</a>
 
 <br>
 
