@@ -555,3 +555,5 @@ Chelsea Peedin
 Syed Ahmed
 
 [Peter Lemenkov](https://github.com/lemenkov)
+
+Juan David Perez O.
