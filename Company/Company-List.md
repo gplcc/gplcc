@@ -74,6 +74,8 @@ SAP
 
 [SAS](https://support.sas.com/en/documentation/gpl-compliance-commitment.html)
 
+Sony
+
 [SUSE LLC](https://www.suse.com/licensing/gplv3-enforcement-statement/)
 
 [Tencent](https://opensource.tencent.com/GPL-Cooperation-Commitment)
