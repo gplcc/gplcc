@@ -4,19 +4,34 @@ layout: default
 # GPL Cooperation Commitment - Individual
 
 <strong>
-<a href=https://github.com/gplcc/gplcc/tree/master/Individual>GitHub guru?>Generate a pull request.</a></strong>
+<a href=https://github.com/gplcc/gplcc/tree/master/Individual>GitHub guru?>Generate a pull request adding your name to the bottom of this file.</a></strong>
 
 <br>
 
 <strong>
 <a href="mailto:gplcc@redhat.com?subject=Add me to the GPL Cooperation Commitment&body=Hi, I would like to have my name added to the GPL Cooperation Commitment.">New to GitHub? We can add your name.</a></strong>
+
 <br>
 
-If you are an individual interested in supporting this initiative in your individual capacity, you may do so by providing your name to be publicly listed as supporting this initiative and personally adopting the GPLv3 cure provisions as to your copyright in code licensed under  GPLv2, LGPLv2.1 and LGPLv2.
-
-Alternatively, create a pull request to this file and insert your name at the bottom of this file thereby acknowledging your agreement to the "GPL v2 Cooperation Commitment - For Individuals"  From there, the administrator of this repository will approve and merge the pull requests on a periodic basis.
+Our goal is to reduce opportunities for abusive enforcement tactics and, more broadly, to promote greater predictability in the enforcement of GPLv2 and LGPLv2.x licenses. Through this initiative, we hope to increase participation in the use and development of open source software by helping to ensure that enforcement, when it takes place, is fair and predictable.
 
 [Tell the world that you added your name to the GPL Cooperation Commitment via Twitter!](http://twitter.com/home?status=I%20signed%20the%20GPL%20Cooperation%20Comitment%20to%20support%20GPL%20enforcement%20consistent%20with%20collaborative%20innovation%20that%20occurs%20in%20open%20source%20communities.%20Please%20join%20https%3A%2Fgplcc.github.io%2Fgplcc%20%23GPLCC%20%23GPL%20%23opensource)
+
+# GPL Cooperation Commitment for individuals
+
+## When you add your name to the GPL Cooperation Commitment for individuals, you’re telling the world that:
+* You support open source community members whose intent is to foster collaboration and participation.
+* You expect licensees to comply with the GPL and LGPL when redistributing code.
+* You assume positive intent and understand that well-meaning people sometimes make mistakes.
+* You have committed to giving licensees a fair chance to correct license violations.
+
+---
+
+> _“As President of the Open Source Initiative (OSI), I’m pleased to sign my name to the GPL Cooperation Commitment. This recent initiative by Red Hat helps to set a precedent for cooperation in GPL license enforcement―it’s a way to tell the open source community that good intentions matter. I encourage other members of the community to support this initiative by adding your name. Let’s celebrate the 20th anniversary of Open Source by spreading this everywhere!”_ -Simon Phipps
+
+---
+
+### Legally, you are agreeing to this commitment:
 
 ### GPL Cooperation Commitment - For Individuals
 
