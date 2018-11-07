@@ -4,12 +4,14 @@ layout: default
 # GPL Cooperation Commitment - Individual
 
 <strong>
-<a href="https://github.com/gplcc/gplcc/tree/master/Individual">GitHub guru? Generate a pull request adding your name to the bottom of this file.</a></strong>
+<a href="https://github.com/gplcc/gplcc/tree/master/Individual">GitHub guru? Generate a pull request adding your name to the bottom of this file.</a></strong><br>
 
 <strong>
-<a href="mailto:gplcc@redhat.com?subject=Add me to the GPL Cooperation Commitment&body=Hi, I would like to have my name added to the GPL Cooperation Commitment.">New to GitHub? We can add your name.</a></strong>
+<a href="mailto:gplcc@redhat.com?subject=Add me to the GPL Cooperation Commitment&body=Hi, I would like to have my name added to the GPL Cooperation Commitment.">New to GitHub? We can add your name.</a></strong><br>
 
-<a href="https://gplcc.github.io/gplcc/">Questions about the GPL Cooperation Commitment?</a>
+<a href="https://gplcc.github.io/gplcc/">Questions about the GPL Cooperation Commitment?</a><br>
+
+<button type="button">Click Me!</button>
 
 Our goal is to reduce opportunities for abusive enforcement tactics and, more broadly, to promote greater predictability in the enforcement of GPLv2 and LGPLv2.x licenses. Through this initiative, we hope to increase participation in the use and development of open source software by helping to ensure that enforcement, when it takes place, is fair and predictable.
 
