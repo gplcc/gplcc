@@ -194,7 +194,7 @@ Dave Stanley
 
 Stefan van Oirschot
 
-[Rebecca Fernandez](https://github.com/ruhbehka) 
+[Rebecca Fernandez](https://github.com/ruhbehka)
 
 [Michel Peterson](https://github.com/mpeterson)
 
@@ -292,7 +292,7 @@ Dan Callaghan
 
 [Robert Scheck](https://github.com/robert-scheck)
 
-[Charles Marshall](https://github.com/otakuidoru) 
+[Charles Marshall](https://github.com/otakuidoru)
 
 [Thiago Rafael Becker](https://github.com/trbecker)
 
@@ -414,7 +414,7 @@ Ricardo Grant
 
 Daniel Dominguez
 
-Amjad Yaseen 
+Amjad Yaseen
 
 Khaled Algharieb
 
@@ -432,7 +432,7 @@ Lucas Dagostino
 
 Hubert Dabrowski
 
-Wolfgang Denk 
+Wolfgang Denk
 
 Chikita Isaac
 
@@ -454,9 +454,9 @@ Jonathan Castro
 
 Андрей Трушников
 
-ปิยะ ผู้นวลงาม 
+ปิยะ ผู้นวลงาม
 
-Dave Woolfenden 
+Dave Woolfenden
 
 Daniel Seaton
 
@@ -500,7 +500,7 @@ Scott Stewart
 
 Mark Bowen
 
-Brian Chang 
+Brian Chang
 
 Emily Verdu
 
@@ -530,7 +530,7 @@ Alejandro Sanchez
 
 Larisso Peluso - Fleming
 
-Chikita Isaac 
+Chikita Isaac
 
 Patrick Cole
 
@@ -552,4 +552,6 @@ Chelsea Peedin
 
 [Patrick Young](https://github.com/kmahyyg)
 
-Syed Ahmed 
+Syed Ahmed
+
+[Peter Lemenkov](https://github.com/lemenkov)
