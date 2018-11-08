@@ -34,7 +34,7 @@ DENX Software Engineering GmbH
 
 Facebook, Inc.
 
-[Github](https://help.github.com/articles/github-gpl-cooperation-commitment/)
+[GitHub](https://help.github.com/articles/github-gpl-cooperation-commitment/)
 
 [GitLab](https://docs.gitlab.com/ee/development/licensing.html#gpl-cooperation-commitment)
 
