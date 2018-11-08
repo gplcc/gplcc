@@ -558,6 +558,8 @@ Syed Ahmed
 
 Juan David Perez O.
 
+[Oliver Falk](https://github.com/ofalk)
+
 [David Proksch](https://github.com/davidproksch)
 
 Lalatendu Mohanty
