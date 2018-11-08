@@ -558,6 +558,8 @@ Syed Ahmed
 
 Juan David Perez O.
 
+[David Proksch](https://github.com/davidproksch)
+
 Lalatendu Mohanty
 
 [David Kirwan](https://github.com/davidkirwan)
