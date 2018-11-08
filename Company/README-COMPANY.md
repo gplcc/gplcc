@@ -31,7 +31,7 @@ layout: default
     * Red Hat will provide you with a draft of the press release for your internal review.<br>
     * The press release would include your Company’s name.<br>
     * We would encourage you to provide a quote for inclusion in the press release.<br>
-    * For example, here are links to the [March 2018](https://www.redhat.com/en/about/press-releases/momentum-builds-new-wave-technology-industry-leaders-join-efforts-increase-predictability-open-source-licensing) and [July 2018](https://www.redhat.com/en/about/press-releases/movement-builds-diverse-group-14-additional-leaders-seek-greater-predictability-open-source-licensing) press releases.
+    * For example, here are links to the [March 2018](https://www.redhat.com/en/about/press-releases/momentum-builds-new-wave-technology-industry-leaders-join-efforts-increase-predictability-open-source-licensing), [July 2018](https://www.redhat.com/en/about/press-releases/movement-builds-diverse-group-14-additional-leaders-seek-greater-predictability-open-source-licensing), and [November 2018](https://www.redhat.com/en/about/press-releases/gpl-initiative-expands-16-additional-companies-joining-campaign-greater-predictability-open-source-licensing) press releases.
    
 -------------------------   
     
