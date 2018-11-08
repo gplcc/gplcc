@@ -559,3 +559,7 @@ Syed Ahmed
 Juan David Perez O.
 
 Lalatendu Mohanty
+
+[David Kirwan](https://github.com/davidkirwan)
+
+Pilar Bravo
