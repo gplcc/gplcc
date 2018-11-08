@@ -558,4 +558,6 @@ Syed Ahmed
 
 Juan David Perez O.
 
+[David Kirwan](https://github.com/davidkirwan)
+
 Pilar Bravo
