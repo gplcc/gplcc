@@ -4,12 +4,10 @@ layout: default
 # GPL Cooperation Commitment - Individual
 
 <strong>
-<a href="https://github.com/gplcc/gplcc/tree/master/Individual">GitHub guru? Generate a pull request adding your name to the bottom of this file.</a></strong><br>
+<a href="https://github.com/gplcc/gplcc/tree/master/Individual">GitHub guru? Generate a pull request to add your name to the bottom of this file.</a></strong><br>
 
 <strong>
 <a href="mailto:gplcc@redhat.com?subject=Add me to the GPL Cooperation Commitment&body=Hi, I would like to have my name added to the GPL Cooperation Commitment.">New to GitHub? We can add your name.</a></strong><br>
-
-<i><a href="https://gplcc.github.io/gplcc/">Questions about the GPL Cooperation Commitment?</a></i><br>
 
 Our goal is to reduce opportunities for abusive enforcement tactics and, more broadly, to promote greater predictability in the enforcement of GPLv2 and LGPLv2.x licenses. Through this initiative, we hope to increase participation in the use and development of open source software by helping to ensure that enforcement, when it takes place, is fair and predictable.
 
@@ -47,6 +45,8 @@ Definitions:
 ‘Covered License’ means the GNU General Public License, version 2 (GPLv2), the GNU Lesser General Public License, version 2.1 (LGPLv2.1), or the GNU Library General Public License, version 2 (LGPLv2), all as published by the Free Software Foundation.
 
 ‘Defensive Action’ means a legal proceeding or claim that I bring against you in response to a prior proceeding or claim initiated by you or your affiliate.
+
+<i><a href="https://gplcc.github.io/gplcc/">Questions about the GPL Cooperation Commitment?</a></i><br>
 
 #### THE ABOVE COMMITMENT IS AGREED TO BY THE FOLLOWING INDIVIDUALS
 
