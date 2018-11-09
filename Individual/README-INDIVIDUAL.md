@@ -1,5 +1,6 @@
+---
 layout: layout_individual
-
+---
 <strong>
 <a href="https://github.com/gplcc/gplcc/tree/master/Individual">GitHub guru? Generate a pull request to add your name to the bottom of this file.</a></strong><br>
 
