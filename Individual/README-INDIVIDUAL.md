@@ -11,9 +11,7 @@ layout: default
 
 Our goal is to reduce opportunities for abusive enforcement tactics and, more broadly, to promote greater predictability in the enforcement of GPLv2 and LGPLv2.x licenses. Through this initiative, we hope to increase participation in the use and development of open source software by helping to ensure that enforcement, when it takes place, is fair and predictable.
 
-[Tell the world that you added your name to the GPL Cooperation Commitment via Twitter!](http://twitter.com/home?status=I%20signed%20the%20GPL%20Cooperation%20Comitment%20to%20support%20GPL%20enforcement%20consistent%20with%20collaborative%20innovation%20that%20occurs%20in%20open%20source%20communities.%20Please%20join%20https%3A%2Fgplcc.github.io%2Fgplcc%20%23GPLCC%20%23GPL%20%23opensource)
-
-# GPL Cooperation Commitment for individuals
+[Tell the world that you added your name to the GPL Cooperation Commitment via Twitter.](http://twitter.com/home?status=I%20signed%20the%20GPL%20Cooperation%20Comitment%20to%20support%20GPL%20enforcement%20consistent%20with%20collaborative%20innovation%20that%20occurs%20in%20open%20source%20communities.%20Please%20join%20https%3A%2Fgplcc.github.io%2Fgplcc%20%23GPLCC%20%23GPL%20%23opensource)
 
 ## When you add your name to the GPL Cooperation Commitment for individuals, you’re telling the world that:
 * You support open source community members whose intent is to foster collaboration and participation.
@@ -28,8 +26,6 @@ Our goal is to reduce opportunities for abusive enforcement tactics and, more br
 ---
 
 ### Legally, you are agreeing to this commitment:
-
-### GPL Cooperation Commitment - For Individuals
 
 Solely for any software for which I personally own copyright that is licensed under a Covered License, before filing or continuing to prosecute any legal proceeding or claim (other than a Defensive Action) arising from termination of a Covered License, I commit to extend to the person or entity (“you”) accused of violating the Covered License the following provisions regarding cure and reinstatement, taken from GPL version 3. As used here, the term ‘this License’ refers to the specific Covered License being enforced.
 
