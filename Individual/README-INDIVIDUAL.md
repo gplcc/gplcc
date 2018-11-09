@@ -1,5 +1,5 @@
 ﻿---
-layout: default
+layout: layout_individual
 ---
 # GPL Cooperation Commitment - Individual
 
