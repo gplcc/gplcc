@@ -569,3 +569,8 @@ Marco Donkers
 [Eliot Lash](https://github.com/fadookie)
 
 Pedro J. Amoedo Martinez
+
+[Markus Thömmes](https://github.com/markusthoemmes)
+
+[Kenneth Giusti](https://github.com/kgiusti)
+
