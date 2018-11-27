@@ -568,4 +568,6 @@ Marco Donkers
 
 [Eliot Lash](https://github.com/fadookie)
 
+[Markus Thömmes](https://github.com/markusthoemmes)
+
 [Kenneth Giusti](https://github.com/kgiusti)
