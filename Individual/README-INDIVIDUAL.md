@@ -567,3 +567,5 @@ Marco Donkers
 [Michael Hrivnak](https://github.com/mhrivnak)
 
 [Eliot Lash](https://github.com/fadookie)
+
+Pedro J. Amoedo Martinez
