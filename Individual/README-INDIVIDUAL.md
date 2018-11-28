@@ -575,3 +575,5 @@ Pedro J. Amoedo Martinez
 [Kenneth Giusti](https://github.com/kgiusti)
 
 Christoph Brune
+
+Yossi Segev
