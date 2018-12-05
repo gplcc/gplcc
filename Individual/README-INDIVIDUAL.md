@@ -577,3 +577,5 @@ Pedro J. Amoedo Martinez
 Christoph Brune
 
 Yossi Segev
+
+[Lenny Szubowicz](https://github.com/LennySzubowicz)
