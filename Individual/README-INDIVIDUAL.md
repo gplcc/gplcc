@@ -581,3 +581,21 @@ Yossi Segev
 [Lenny Szubowicz](https://github.com/LennySzubowicz)
 
 Jose Santiago Silva Ramirez
+
+Issac Chute
+
+Dave Fitzpatrick
+
+Don Zickus
+
+Ryan Cole
+
+Ian Panzica
+
+Andrew Toth
+
+Dan Walsh
+
+Susan Denham
+
+Benjamin Bennett
