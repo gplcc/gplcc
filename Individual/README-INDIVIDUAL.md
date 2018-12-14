@@ -579,3 +579,5 @@ Christoph Brune
 Yossi Segev
 
 [Lenny Szubowicz](https://github.com/LennySzubowicz)
+
+Jose Santiago Silva Ramirez
