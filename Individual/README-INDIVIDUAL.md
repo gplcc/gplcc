@@ -600,4 +600,6 @@ Susan Denham
 
 Benjamin Bennett
 
+[Clint Priest](https://github.com/cpriest)
+
 Tesh Patel
