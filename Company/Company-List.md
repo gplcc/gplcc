@@ -60,7 +60,7 @@ NEC
 
 [NVIDIA](https://developer.nvidia.com/gpl-cooperation-commitment)
 
-[Oath](https://developer.yahoo.com/opensource/gplcc/)
+[Verizon Media](https://developer.yahoo.com/opensource/docs/GPL-Cooperation-Commitment.html)
 
 [Pivotal](https://content.pivotal.io/pivotal-blog/pivotal-joins-other-technology-industry-leaders-to-advance-open-source-licensing)
 
