@@ -340,8 +340,6 @@ Rene LeBlanc
 
 Sandra Falzarano
 
-Karen Noel
-
 Ian Checkley
 
 [Sergio Lopez](https://github.com/slp)
@@ -427,8 +425,6 @@ Lucas Dagostino
 Hubert Dabrowski
 
 Wolfgang Denk
-
-Chikita Isaac
 
 Rachel Portnoy
 
