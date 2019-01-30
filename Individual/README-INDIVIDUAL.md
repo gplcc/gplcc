@@ -607,3 +607,5 @@ Matthew Grossman
 Robert Lidberg 
 
 Aaron Kaatz
+
+[Bryan Sutula](https://github.com/sutula)
