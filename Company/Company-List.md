@@ -34,6 +34,8 @@ DENX Software Engineering GmbH
 
 Facebook, Inc.
 
+[Fujitsu Limited](http://www.fujitsu.com/jp/documents/about/businesspolicy/tech/intellectualproperty/gpl_cooperation%20commitment.pdf)
+
 [GitHub](https://help.github.com/articles/github-gpl-cooperation-commitment/)
 
 [GitLab](https://docs.gitlab.com/ee/development/licensing.html#gpl-cooperation-commitment)
