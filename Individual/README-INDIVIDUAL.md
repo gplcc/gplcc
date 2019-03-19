@@ -625,3 +625,5 @@ Jean Sebastien Tougne
 [Michael Leibfried](https://github.com/LeibfriedM)
 
 Matthias Pfützner
+
+Horst Thieme
