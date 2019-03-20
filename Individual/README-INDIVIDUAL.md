@@ -602,23 +602,23 @@ Tesh Patel
 
 林韋宏
 
-Matthew Grossman 
+Matthew Grossman
 
-Robert Lidberg 
+Robert Lidberg
 
 Aaron Kaatz
 
 [Bryan Sutula](https://github.com/sutula)
 
-Honey Banny 
+Honey Banny
 
-Phee Rujiphan 
+Phee Rujiphan
 
 Byken Hoang
 
 Matt Erbst
 
-Jean Sebastien Tougne 
+Jean Sebastien Tougne
 
 [Michael Gliwinski](https://github.com/mig4)
 
@@ -629,3 +629,6 @@ Matthias Pfützner
 Horst Thieme
 
 Martin Welk
+
+[Daniel Fröhlich](https://github.com/DanielFroehlich)
+
