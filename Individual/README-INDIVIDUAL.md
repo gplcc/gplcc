@@ -44,6 +44,8 @@ Definitions:
 
 #### THE ABOVE COMMITMENT IS AGREED TO BY THE FOLLOWING INDIVIDUALS
 
+[Magnus Glantz](http://github.com/mglantz)
+
 Michael K. Dolan Jr. (https://github.com/mkdolan)
 
 Joseph D. Schram
