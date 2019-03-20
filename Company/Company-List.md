@@ -90,7 +90,7 @@ Sony
 
 [VMware](http://vmware.github.io/gpl-commitment)
 
-[Volvo](https://mail.corp.redhat.com/service/home/~/?auth=co&loc=en_US&id=133914&part=2)
+[Volvo Car Corporation](https://mail.corp.redhat.com/service/home/~/?auth=co&loc=en_US&id=133914&part=2)
 
 -------------
 
