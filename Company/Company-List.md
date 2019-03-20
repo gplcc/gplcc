@@ -90,6 +90,8 @@ Sony
 
 [VMware](http://vmware.github.io/gpl-commitment)
 
+Volvo
+
 -------------
 
 <a href="https://gplcc.github.io/gplcc/">Return to the GPL Cooperation Commitment main page.</a>
