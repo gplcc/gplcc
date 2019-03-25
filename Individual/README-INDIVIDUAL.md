@@ -637,3 +637,5 @@ Martin Welk
 Ingo Boernig
 
 [Jacob Borella](https://github.com/jacobborella)
+
+[Wolfram Richter](https://github.com/wrichter)
