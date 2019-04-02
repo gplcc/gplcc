@@ -5,8 +5,7 @@ layout: default
 # GPL Cooperation Commitment for Projects (GPL-CC-1.0)
 
 A project may wish to adopt the GPL Cooperation Commitment for all
-contributions going forward. Simply put the [COMMITMENT]
-(https://raw.githubusercontent.com/gplcc/gplcc/master/Project/COMMITMENT)
+contributions going forward. Simply put the [COMMITMENT](https://raw.githubusercontent.com/gplcc/gplcc/master/Project/COMMITMENT)
 file in the same directory in your source repository as the GPLv2, LGPLv2
 or LGPLv2.1 license file.
 
