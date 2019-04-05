@@ -28,7 +28,7 @@ Canonical
 
 [Cisco Systems, Inc.](https://www.cisco.com/c/en/us/about/legal/open-source-documentation.html)
 
-[Colt] (https://www.colt.net/legal/)
+[Colt](https://www.colt.net/legal/)
 
 DENX Software Engineering GmbH
 
