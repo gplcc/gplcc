@@ -641,3 +641,7 @@ Ingo Boernig
 [Wolfram Richter](https://github.com/wrichter)
 
 [Karsten Gresch](https://github.com/karstengresch/)
+
+Thương Đặng 
+
+Freda McClendon 
