@@ -649,3 +649,5 @@ Freda McClendon
 Sylwia Panek
 
 Karla Guevara
+
+[Thomas Jensen](https://github.com/tsjensen/)
