@@ -652,4 +652,4 @@ Karla Guevara
 
 [Thomas Jensen](https://github.com/tsjensen/)
 
-Thu Huymh
+Thu Huynh
