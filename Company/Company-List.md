@@ -38,7 +38,7 @@ DENX Software Engineering GmbH
 
 Facebook, Inc.
 
-[Freight Trust](https://github.com/freight-trust/legal/blob/master/GPL-cooperation-commitment.md)
+[Freight Trust and Clearing Corporation](https://github.com/freight-trust/legal/blob/master/GPL-cooperation-commitment.md)
 
 [Fujitsu Limited](http://www.fujitsu.com/jp/documents/about/businesspolicy/tech/intellectualproperty/gpl_cooperation%20commitment.pdf)
 
