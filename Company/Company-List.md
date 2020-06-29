@@ -58,7 +58,7 @@ Hitachi
 
 [Intel](https://software.intel.com/en-us/blogs/2018/07/16/extending-rights-address-open-source-compliance-issues)
 
-[LG Electronics] (https://github.com/LGE-OSS/gpl-commitment)
+[LG Electronics](https://github.com/LGE-OSS/gpl-commitment)
 
 [Liferay](https://community.liferay.com/gplv3-enforcement-statement)
 
