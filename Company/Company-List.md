@@ -72,8 +72,6 @@ NEC
 
 [NVIDIA](https://developer.nvidia.com/gpl-cooperation-commitment)
 
-[Verizon Media](https://developer.yahoo.com/opensource/docs/GPL-Cooperation-Commitment.html)
-
 [Pivotal](https://content.pivotal.io/pivotal-blog/pivotal-joins-other-technology-industry-leaders-to-advance-open-source-licensing)
 
 [Red Hat, Inc.](https://www.redhat.com/en/about/gplv3-enforcement-statement)
@@ -95,6 +93,8 @@ Sony
 [Toyota](https://www.toyota.co.jp/jpn/sustainability/governance/compliance/Toyota_GPL_Commitment.pdf)
 
 [Twitter](http://github.com/twitter/gpl-commitment)
+
+[Verizon Media](https://developer.yahoo.com/opensource/docs/GPL-Cooperation-Commitment.html)
 
 [VMware](http://vmware.github.io/gpl-commitment)
 
