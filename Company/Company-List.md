@@ -34,6 +34,8 @@ DENX Software Engineering GmbH
 
 [Endocode](https://endocode.com/gpl-cooperation-commitment/)
 
+[Epam](https://www.epam.com/open-source/gpl-cooperation-commitment)
+
 [Etsy, Inc.](http://etsy.github.io/gpl-coop-commitment.html)
 
 Facebook, Inc.
