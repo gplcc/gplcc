@@ -30,6 +30,8 @@ Canonical
 
 [Colt](https://www.colt.net/legal/)
 
+[Comcast](https://comcast.github.io/GPL_Enforcement.html)
+
 DENX Software Engineering GmbH
 
 [Endocode](https://endocode.com/gpl-cooperation-commitment/)
