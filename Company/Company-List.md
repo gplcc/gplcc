@@ -88,6 +88,8 @@ SAP
 
 [SAS](https://support.sas.com/en/documentation/gpl-compliance-commitment.html)
 
+[Seagate](https://github.com/Seagate/GPL-Commitment)
+
 Sony
 
 [SUSE LLC](https://www.suse.com/licensing/gplv3-enforcement-statement/)
