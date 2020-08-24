@@ -58,6 +58,8 @@ Hitachi
 
 [IBM](https://developer.ibm.com/code/open/)
 
+[Indeed, Inc](https://github.com/indeedeng/oss-guide/blob/main/docs/resources/gpl-cooperation-commitment.md)
+
 [Infosys Limited](https://www.infosys.com/services/open-source/insights/gpl-commitment.html)
 
 [Intel](https://software.intel.com/en-us/blogs/2018/07/16/extending-rights-address-open-source-compliance-issues)
