@@ -24,6 +24,8 @@ layout: default
 
 [CA, Inc.](https://www.ca.com/us/legal/gpl-commitment.html)
 
+[Camunda](https://docs.camunda.org/manual/7.13/introduction/licenses/#gpl-cooperation-commitment)
+
 Canonical
 
 [Cisco Systems, Inc.](https://www.cisco.com/c/en/us/about/legal/open-source-documentation.html)
