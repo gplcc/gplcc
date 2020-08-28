@@ -54,6 +54,8 @@ Facebook, Inc.
 
 [Google LLC](https://opensource.google.com/gpl-enforcement/)
 
+[HandyOpenSource-DVKbuntu](https://www.dvkbuntu.org/Engagement_de_cooperation_HandyOpenSource/)
+
 Hitachi
 
 [HPE](https://news.hpe.com/hpe-joins-other-community-leaders-in-protecting-developers-and-enabling-innovation/)
