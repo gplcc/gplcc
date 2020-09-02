@@ -40,6 +40,8 @@ DENX Software Engineering GmbH
 
 [Epam](https://www.epam.com/open-source/gpl-cooperation-commitment)
 
+[Ericsson]( https://www.ericsson.com/49ff9e/assets/local/about-ericsson/documents/our-gpl-commitment.pdf)
+
 [Etsy, Inc.](http://etsy.github.io/gpl-coop-commitment.html)
 
 Facebook, Inc.
