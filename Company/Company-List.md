@@ -94,6 +94,8 @@ NEC
 
 Royal Philips
 
+[Salesforce](https://github.com/salesforce/gpl-commitment)
+
 SAP
 
 [SAS](https://support.sas.com/en/documentation/gpl-compliance-commitment.html)
