@@ -30,6 +30,8 @@ Canonical
 
 [Cisco Systems, Inc.](https://www.cisco.com/c/en/us/about/legal/open-source-documentation.html)
 
+[CloudBees](https://www.cloudbees.com/blog/general-public-license-issue)
+
 [Colt](https://www.colt.net/legal/)
 
 [Comcast](https://comcast.github.io/GPL_Enforcement.html)
