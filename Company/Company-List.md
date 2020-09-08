@@ -28,6 +28,8 @@ layout: default
 
 Canonical
 
+[Capital One](https://github.com/capitalone/GPL-Cooperation-Commitment)
+
 [Cisco Systems, Inc.](https://www.cisco.com/c/en/us/about/legal/open-source-documentation.html)
 
 [CloudBees](https://www.cloudbees.com/blog/general-public-license-issue)
