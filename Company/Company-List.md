@@ -40,6 +40,8 @@ Canonical
 
 DENX Software Engineering GmbH
 
+[Ellucian](https://www.ellucian.com/gpl-cooperation-commitment)
+
 [Endocode](https://endocode.com/gpl-cooperation-commitment/)
 
 [Epam](https://www.epam.com/open-source/gpl-cooperation-commitment)
