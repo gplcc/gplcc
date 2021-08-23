@@ -76,6 +76,8 @@ Hitachi
 
 [Intel](https://software.intel.com/en-us/blogs/2018/07/16/extending-rights-address-open-source-compliance-issues)
 
+[Khwarizm Consulting](http://www.khwarizm.com/gpl-cooperation-commitment/)
+
 [Lenovo](https://github.com/lenovo/gplcc/blob/master/GPL%20Cooperation%20Commitment-Lenovo.md)
 
 [LG Electronics](https://github.com/LGE-OSS/gpl-commitment)
