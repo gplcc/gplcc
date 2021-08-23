@@ -124,6 +124,8 @@ Sony
 
 [Volvo Car Corporation](https://mail.corp.redhat.com/service/home/~/?auth=co&loc=en_US&id=133914&part=2)
 
+[Western Digital](https://www.westerndigital.com/solutions/open-source#gpl-coop-commitment)
+
 -------------
 
 <a href="https://gplcc.github.io/gplcc/">Return to the GPL Cooperation Commitment main page.</a>
