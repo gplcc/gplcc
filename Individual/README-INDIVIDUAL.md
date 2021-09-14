@@ -755,3 +755,5 @@ Sebastian Steinbach
 Masoud Shokohi 
 
 Telmuun Naraa
+
+D.J. Paul (https://github.com/SIGSEGV-666)
