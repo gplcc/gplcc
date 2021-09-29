@@ -757,3 +757,7 @@ Masoud Shokohi
 Telmuun Naraa
 
 D.J. Paul (https://github.com/SIGSEGV-666)
+
+[Aaron Lowe](https://github.com/CyberFlameGO/)
+
+Rokil Apaas
