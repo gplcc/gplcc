@@ -25,7 +25,11 @@ GEM
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
     execjs (2.7.0)
+    dependabot/bundler/addressable-2.8.0
     faraday (1.5.1)
+
+    faraday (1.8.0)
+            
       faraday-em_http (~> 1.0)
       faraday-em_synchrony (~> 1.0)
       faraday-excon (~> 1.1)
@@ -33,6 +37,10 @@ GEM
       faraday-net_http (~> 1.0)
       faraday-net_http_persistent (~> 1.1)
       faraday-patron (~> 1.0)
+      dependabot/bundler/addressable-2.8.0
+
+      faraday-rack (~> 1.0)
+               
       multipart-post (>= 1.2, < 3)
       ruby2_keywords (>= 0.0.4)
     faraday-em_http (1.0.0)
@@ -42,7 +50,12 @@ GEM
     faraday-net_http (1.0.1)
     faraday-net_http_persistent (1.2.0)
     faraday-patron (1.0.0)
+    dependabot/bundler/addressable-2.8.0
     ffi (1.15.3)
+
+    faraday-rack (1.0.0)
+    ffi (1.15.4)
+         
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
     github-pages (192)
@@ -213,15 +226,20 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
-    mini_portile2 (2.5.1)
+    mini_portile2 (2.6.1)
     minima (2.5.0)
       jekyll (~> 3.5)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.11.3)
     multipart-post (2.1.1)
+    dependabot/bundler/addressable-2.8.0
     nokogiri (1.11.4)
       mini_portile2 (~> 2.5.0)
+
+    nokogiri (1.12.5)
+      mini_portile2 (~> 2.6.1)
+
       racc (~> 1.4)
     octokit (4.21.0)
       faraday (>= 0.9)
@@ -236,7 +254,11 @@ GEM
     rouge (2.2.1)
     ruby-enum (0.7.2)
       i18n
+    dependabot/bundler/addressable-2.8.0
     ruby2_keywords (0.0.4)
+
+    ruby2_keywords (0.0.5)
+        
     ruby_dep (1.5.0)
     rubyzip (2.0.0)
     safe_yaml (1.0.4)
@@ -259,8 +281,12 @@ GEM
       thread_safe (~> 0.1)
     unf (0.1.4)
       unf_ext
+   dependabot/bundler/addressable-2.8.0
     unf_ext (0.0.7.7)
-    unicode-display_width (1.4.0)
+
+    unf_ext (0.0.8)
+        
+  unicode-display_width (1.4.0)
 
 PLATFORMS
   ruby
