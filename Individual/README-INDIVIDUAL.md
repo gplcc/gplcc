@@ -751,3 +751,23 @@ David Mottershead
 Sebastian Steinbach
 
 خالد المطيري
+
+Masoud Shokohi 
+
+Telmuun Naraa
+
+[D.J. Paul](https://github.com/SIGSEGV-666)
+
+[Aaron Lowe](https://github.com/CyberFlameGO/)
+
+Rokil Apaas
+
+Amber Wolf
+
+Stephanie Dawson
+
+Petr Kominek
+
+สุนทร อินทมาตร 
+
+Evgeniy Shutkin
