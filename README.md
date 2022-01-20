@@ -17,7 +17,7 @@ The GPL Cooperation Commitment is a statement by GPLv2 and LGPLv2.x copyright ho
 
 The “automatic termination” feature of  GPLv2 and LGPLv2.x   does not provide an express “cure” period in the event of a violation. This means that a single act of inadvertent non-compliance could give rise to an infringement claim, with no obligation to provide notice prior to taking legal action. When GPLv3 was introduced in 2007, one of the key improvements was the inclusion of a cure period. 
 
-In order to address this imbalance in GPLv2 and LGPLv2.x license enforcement, Red Hat, IBM, Google, and Facebook announced in November 2017 a commitment to apply the GPLv3 cure provisions for their GPLv2 and LGPLv2.x licensed software. Since that time, over 40 companies have announced that they too were making the commitment ([see current list]({{site.baseurl}}{% link Company/Company-List.md %})). The cure approach has support across the open source community, including individual developers and users. It is the same approach that was adopted in 2017 by over a hundred Linux kernel developers, and is also among the Principles of Community-Oriented GPL Enforcement promulgated by the Software Freedom Conservancy. Red Hat has adopted the cure approach for all new Red Hat-initiated open source projects that opt to use GPLv2 or LGPLv2.1. Similarly, a growing number of existing Red Hat-led GPLv2 and LGPLv2.x projects are adopting the cure commitment for new contributions. Finally, there is also an initiative to enable individual developers to add their names to the cure approach.
+In order to address this imbalance in GPLv2 and LGPLv2.x license enforcement, Red Hat, IBM, Google, and Facebook announced in November 2017 a commitment to apply the GPLv3 cure provisions for their GPLv2 and LGPLv2.x licensed software. Since that time, over 40 companies have announced that they too were making the commitment ([see current list](Company/Company-List.md)). The cure approach has support across the open source community, including individual developers and users. It is the same approach that was adopted in 2017 by over a hundred Linux kernel developers, and is also among the Principles of Community-Oriented GPL Enforcement promulgated by the Software Freedom Conservancy. Red Hat has adopted the cure approach for all new Red Hat-initiated open source projects that opt to use GPLv2 or LGPLv2.1. Similarly, a growing number of existing Red Hat-led GPLv2 and LGPLv2.x projects are adopting the cure commitment for new contributions. Finally, there is also an initiative to enable individual developers to add their names to the cure approach.
 
 ---
 
@@ -41,9 +41,9 @@ In order to address this imbalance in GPLv2 and LGPLv2.x license enforcement, Re
 
 ## Ready to add your name to the commitment?
 
-**Companies and other Organizations.** If you are a company or other organization, [follow these instructions.]({{site.baseurl}}{% link Company/README-COMPANY.md %}) There is no agreement to sign and it costs nothing.
+**Companies and other Organizations.** If you are a company or other organization, [follow these instructions](Company/README-COMPANY.md). There is no agreement to sign and it costs nothing.
 
-**Individuals.** [Visit this page]({{site.baseurl}}{% link Individual/README-INDIVIDUAL.md %}), clone the repo, add your name to the bottom of the commitment text, and submit a pull request. Full instructions are provided on the page. 
+**Individuals.** [Visit this page](Individual/README-INDIVIDUAL.md), clone the repo, add your name to the bottom of the commitment text, and submit a pull request. Full instructions are provided on the page. 
 
 <a href="mailto:gplcc@redhat.com?subject=Add me to the GPL Cooperation Commitment&body=Hi, I would like to have my name added to the GPL Cooperation Commitment. Please use the name as it appears in the ‘From’ line in this email.">Alternatively, you may click here which will automatically generate an email requesting the administrator to add your name to commitment.</a>
 
@@ -95,7 +95,7 @@ Signing the commitment is a way to demonstrate your commitment and publicly comm
 
 Red Hat initiated and is promoting the GPL Cooperation Commitment because Red Hat believes it will lead to more predictability in enforcement and, in turn, greater participation in the development and use of free and open source software. Red Hat’s intention is to let the world know that various companies and individuals support this initiative and have signed on to the GPL Cooperation Commitment.
 
-Red Hat, IBM, Google, Facebook, CA Technologies, Cisco, HPE, Microsoft, SAP, SUSE, and many Linux kernel developers have made this or a similar commitment. Check out the list of [individuals]({{site.baseurl}}{% link Individual/README-INDIVIDUAL.md %}) and [companies]({{site.baseurl}}{% link Company/Company-List.md %}) who have joined this particular initiative. 
+Red Hat, IBM, Google, Facebook, CA Technologies, Cisco, HPE, Microsoft, SAP, SUSE, and many Linux kernel developers have made this or a similar commitment. Check out the list of [individuals](Individual/README-INDIVIDUAL.md) and [companies](Company/Company-List.md) who have joined this particular initiative. 
  
 The roots of the GPL Cooperation Commitment lie in the pioneering work of the Free Software Foundation and Software Freedom Law Center on GPLv3. The Free Software Foundation and Software Freedom Conservancy later embodied the concept in their [Principles of Community-Oriented GPL Enforcement](https://sfconservancy.org/copyleft-compliance/principles.html). Later, in October 2017, a large number of individual Linux kernel developers adopted the approach in their [Linux Kernel Enforcement Statement](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/process/kernel-enforcement-statement.rst).
 
