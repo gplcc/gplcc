@@ -22,6 +22,8 @@ layout: default
 
 [Bandwidth](https://www.bandwidth.com/legal/gpl-cooperation-commitment/)
 
+[Brickdoc](https://help.brickdoc.com/en/articles/5972650-gpl-cooperation-commitment)
+
 [CA, Inc.](https://www.ca.com/us/legal/gpl-commitment.html)
 
 [Camunda](https://docs.camunda.org/manual/7.13/introduction/licenses/#gpl-cooperation-commitment)
