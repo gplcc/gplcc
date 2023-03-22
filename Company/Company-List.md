@@ -60,7 +60,7 @@ Facebook, Inc.
 
 [GitHub](https://help.github.com/articles/github-gpl-cooperation-commitment/)
 
-[GitLab](https://docs.gitlab.com/ee/development/licensing.html#gpl-cooperation-commitment)
+[GitLab](https://about.gitlab.com/handbook/legal/product/#gpl-cooperation-commitment)
 
 [Google LLC](https://opensource.google.com/gpl-enforcement/)
 
