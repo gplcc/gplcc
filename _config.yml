@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: GPL Cooperation Commitment
 description: Keep open source licenses fair and predictable
-show_downloads: false
+show_downloads: true
 plugins:
   - jekyll-relative-links
