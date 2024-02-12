@@ -857,3 +857,6 @@ Mariana Ružickova
 kevin christtopher colson 
 
 Marjorie Labandero
+
+Seg Alex
+
