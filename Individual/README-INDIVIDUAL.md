@@ -864,6 +864,8 @@ Seg Alex
 
 مسعود اسدی
 
-JJ HartnickHamza Abbas
+JJ Hartnick
+
+Hamza Abbas
 
 Medine Enmek
